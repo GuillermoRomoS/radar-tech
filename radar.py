@@ -372,6 +372,12 @@ def main(argv: list[str] | None = None) -> int:
         print("[radar] Nada nuevo; no se genera edición.", file=sys.stderr)
         return 0 if len(errors) < len(sources) else 1
 
+    # Si ya hubo una ejecución hoy, se fusiona en vez de sobrescribir la edición del día
+    if not args.dry_run and LATEST_FILE.exists():
+        prev = json.loads(LATEST_FILE.read_text(encoding="utf-8"))
+        if prev.get("date") == day.isoformat():
+            items = prev.get("items", []) + items
+
     digest = render_digest(day, items, errors, len(sources))
     if args.dry_run:
         print(digest)
