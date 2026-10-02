@@ -1,0 +1,20 @@
+{
+  "_comment": "Fuentes reales verificadas el 2026-10-02. type: rss | atom | hf_daily. kind: research | news | official. limit: máx. elementos por fuente y día.",
+  "sources": [
+    {"name": "arXiv cs.RO (Robotics)", "url": "https://rss.arxiv.org/rss/cs.RO", "type": "rss", "category": "robotica", "kind": "research", "limit": 6},
+    {"name": "IEEE Spectrum · Robotics", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "type": "rss", "category": "robotica", "kind": "news", "limit": 4},
+    {"name": "The Robot Report", "url": "https://www.therobotreport.com/feed/", "type": "rss", "category": "robotica", "kind": "news", "limit": 5},
+
+    {"name": "NASA · News Releases", "url": "https://www.nasa.gov/news-release/feed/", "type": "rss", "category": "espacio", "kind": "official", "limit": 5},
+    {"name": "ESA · Top News", "url": "https://www.esa.int/rssfeed/TopNews", "type": "rss", "category": "espacio", "kind": "official", "limit": 4},
+    {"name": "IEEE Spectrum · Aerospace", "url": "https://spectrum.ieee.org/feeds/topic/aerospace.rss", "type": "rss", "category": "espacio", "kind": "news", "limit": 3},
+    {"name": "arXiv astro-ph.IM (Instrumentation)", "url": "https://rss.arxiv.org/rss/astro-ph.IM", "type": "rss", "category": "espacio", "kind": "research", "limit": 4},
+
+    {"name": "IEEE Spectrum · Computing", "url": "https://spectrum.ieee.org/feeds/topic/computing.rss", "type": "rss", "category": "informatica", "kind": "news", "limit": 4},
+    {"name": "Quanta Magazine · Computer Science", "url": "https://www.quantamagazine.org/computer-science/feed/", "type": "rss", "category": "informatica", "kind": "news", "limit": 2},
+
+    {"name": "Hugging Face Daily Papers", "url": "https://huggingface.co/api/daily_papers", "type": "hf_daily", "category": "ia", "kind": "research", "limit": 6},
+    {"name": "Google DeepMind Blog", "url": "https://deepmind.google/blog/rss.xml", "type": "rss", "category": "ia", "kind": "official", "limit": 3},
+    {"name": "IEEE Spectrum · AI", "url": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss", "type": "rss", "category": "ia", "kind": "news", "limit": 4}
+  ]
+}
