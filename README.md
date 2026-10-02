@@ -20,8 +20,28 @@
 ## Hoy en el radar · Today on the radar
 
 <!-- RADAR:START -->
-*La primera edición automática aparecerá tras la primera ejecución del workflow.*
-*The first automated issue will appear after the first workflow run.*
+
+**Última edición · Latest issue: [2026-10-02](digests/2026/2026-10-02.md)** — 28 elementos/items
+
+**🤖 Robótica · Robotics**
+- [Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral Soft Robot](https://arxiv.org/abs/2609.38202) — *arXiv cs.RO (Robotics)*
+- [Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement](https://arxiv.org/abs/2609.38216) — *arXiv cs.RO (Robotics)*
+- [SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets](https://arxiv.org/abs/2609.38225) — *arXiv cs.RO (Robotics)*
+
+**🚀 Espacio · Space**
+- [NASA Awards Enterprise Logistics Support Services Agreements](https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/) — *NASA · News Releases*
+- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/) — *NASA · News Releases*
+- [What’s Up: October 2026 Skywatching Tips from NASA](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal) — *IEEE Spectrum · Computing*
+
+**🧠 Inteligencia artificial · Artificial intelligence**
+- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) — *Google DeepMind Blog*
+- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) — *Google DeepMind Blog*
+
+**Archivo reciente · Recent archive:** [2026-10-02](digests/2026/2026-10-02.md)
+
 <!-- RADAR:END -->
 
 ## Cómo funciona · How it works
