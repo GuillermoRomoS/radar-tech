@@ -186,6 +186,7 @@ def parse_hf_daily(raw: bytes) -> list[dict]:
             "summary": paper.get("summary", ""),
             "date": parse_date(entry.get("publishedAt") or paper.get("publishedAt")),
             "announce": None,
+            "skip_window": True,  # la lista ya es "del día"; publishedAt es la fecha original del paper
             "extra": f"▲ {paper.get('upvotes', 0)} · [HF](https://huggingface.co/papers/{pid})" if pid else "",
         })
     return items
@@ -216,7 +217,7 @@ def collect(sources: list[dict], now: dt.datetime, window_h: int, seen: dict,
                 continue
             if it.get("announce") and it["announce"] != "new":
                 continue  # arXiv: solo envíos nuevos, no reemplazos ni cross-lists
-            if it["date"] and not (cutoff <= it["date"] <= now + dt.timedelta(hours=12)):
+            if it["date"] and not it.get("skip_window") and not (cutoff <= it["date"] <= now + dt.timedelta(hours=12)):
                 continue
             iid = item_id(it["link"], it["title"])
             if iid in seen:
