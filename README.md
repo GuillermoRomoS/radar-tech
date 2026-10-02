@@ -21,7 +21,7 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-02](digests/2026/2026-10-02.md)** — 28 elementos/items
+**Última edición · Latest issue: [2026-10-02](digests/2026/2026-10-02.md)** — 57 elementos/items
 
 **🤖 Robótica · Robotics**
 - [Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral Soft Robot](https://arxiv.org/abs/2609.38202) — *arXiv cs.RO (Robotics)*
@@ -39,6 +39,7 @@
 **🧠 Inteligencia artificial · Artificial intelligence**
 - [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) — *Google DeepMind Blog*
 - [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) — *Google DeepMind Blog*
+- [Agent Priors-guided Policy Learning](https://arxiv.org/abs/2609.35690) — *Hugging Face Daily Papers*
 
 **Archivo reciente · Recent archive:** [2026-10-02](digests/2026/2026-10-02.md)
 
