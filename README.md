@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-02](digests/2026/2026-10-02.md)** — 57 elementos/items
+**Última edición · Latest issue: [2026-10-03](digests/2026/2026-10-03.md)** — 18 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Optimize, Learn, Refine: Whole-Body Grasping and Pick-and-Throw with a Spiral Soft Robot](https://arxiv.org/abs/2609.38202) — *arXiv cs.RO (Robotics)*
-- [Fiatlux: A Long-Horizon Benchmark for Humanoid Ladder Climbing and Light-Bulb Replacement](https://arxiv.org/abs/2609.38216) — *arXiv cs.RO (Robotics)*
-- [SynIL: Leveraging Synergy for Offline Imitation Learning from Imperfect Demonstration Datasets](https://arxiv.org/abs/2609.38225) — *arXiv cs.RO (Robotics)*
+- [Video Friday: Albatross Falls, Spins, Self-Rights, and Sails Away](https://spectrum.ieee.org/video-friday-bioinspired-robotics) — *IEEE Spectrum · Robotics*
+- [Inside Omron’s next-generation LD mobile robots](https://www.therobotreport.com/inside-omrons-next-generation-ld-mobile-robots/) — *The Robot Report*
+- [Eli Lilly, Purdue to share field learnings on human robot interaction at RoboBusiness](https://www.therobotreport.com/eli-lilly-purdue-to-share-field-learnings-on-human-robot-interaction-at-robobusiness/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [NASA Awards Enterprise Logistics Support Services Agreements](https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/) — *NASA · News Releases*
-- [NASA’s SpaceX Crew-13 Launches](https://www.nasa.gov/image-article/nasas-spacex-crew-13-launches/) — *NASA · News Releases*
-- [What’s Up: October 2026 Skywatching Tips from NASA](https://science.nasa.gov/solar-system/skywatching/whats-up-october-2026-skywatching-tips-from-nasa/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [A Brief History of the Bloomberg Terminal](https://spectrum.ieee.org/bloomberg-terminal) — *IEEE Spectrum · Computing*
+- [APOD: 2026 October 3 – Selfie at Vera Rubin Ridge](https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/) — *NASA · News Releases*
+- [NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia](https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/) — *NASA · News Releases*
+- [Heading Home: NASA’s SpaceX Crew-12 Concludes Station Science Mission](https://www.nasa.gov/missions/station/iss-research/heading-home-nasas-spacex-crew-12-concludes-station-science-mission/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) — *Google DeepMind Blog*
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) — *Google DeepMind Blog*
-- [Agent Priors-guided Policy Learning](https://arxiv.org/abs/2609.35690) — *Hugging Face Daily Papers*
+- [On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics](https://arxiv.org/abs/2609.35259) — *Hugging Face Daily Papers*
+- [Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It](https://arxiv.org/abs/2609.36585) — *Hugging Face Daily Papers*
+- [E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models](https://arxiv.org/abs/2609.37533) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
