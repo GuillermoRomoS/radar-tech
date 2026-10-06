@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-05](digests/2026/2026-10-05.md)** — 22 elementos/items
+**Última edición · Latest issue: [2026-10-06](digests/2026/2026-10-06.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Awomo-SimDataEngine: Agentic Simulation-ReadyWorld Generation](https://arxiv.org/abs/2610.02274) — *arXiv cs.RO (Robotics)*
-- [World-Calibrated Proposal-to-Action Flow for Vision-Language-Action Models](https://arxiv.org/abs/2610.02323) — *arXiv cs.RO (Robotics)*
-- [SoTa: Soft Tactile Skins for Dexterous Manipulation](https://arxiv.org/abs/2610.02338) — *arXiv cs.RO (Robotics)*
+- [TACET: Context-Appropriate Acoustic-Social Navigation for Quadrupeds](https://arxiv.org/abs/2610.03828) — *arXiv cs.RO (Robotics)*
+- [GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive](https://arxiv.org/abs/2610.03861) — *arXiv cs.RO (Robotics)*
+- [MOSAIC-SV: Real-Time Adaptive Identification of Vessel Dynamics for the Control and Deployment of Aquatic Robots](https://arxiv.org/abs/2610.03898) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 5 – M104: The Sombrero Galaxy’s Tidal Streams](https://science.nasa.gov/image-article/apod-2026-october-5-m104-the-sombrero-galaxys-tidal-streams/) — *NASA · News Releases*
-- [Moon-Like Madagascar](https://science.nasa.gov/earth/earth-observatory/moon-like-madagascar/) — *NASA · News Releases*
-- [Curiosity Blog, Sols 5022-5028: Cashing in at Cache Creek](https://science.nasa.gov/blog/curiosity-blog-sols-5022-5028-cashing-in-at-cache-creek/) — *NASA · News Releases*
+- [APOD: 2026 October 6 – A Complete Auroral Oval from SMILE](https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/) — *NASA · News Releases*
+- [The Beaver Brown Waters of Rupert Bay](https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/) — *NASA · News Releases*
+- [Curiosity Blog, Sols 5029-5035: Back in the Lab](https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Does Learning Protein Folding Generalize to Broader Reasoning?](https://arxiv.org/abs/2609.38879) — *Hugging Face Daily Papers*
-- [MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation](https://arxiv.org/abs/2609.38078) — *Hugging Face Daily Papers*
-- [FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation](https://arxiv.org/abs/2609.38839) — *Hugging Face Daily Papers*
+- [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://arxiv.org/abs/2610.05608) — *Hugging Face Daily Papers*
+- [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/abs/2610.02840) — *Hugging Face Daily Papers*
+- [ALoDLM: Adaptively Looped Diffusion Language Models](https://arxiv.org/abs/2610.04198) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
