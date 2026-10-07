@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-06](digests/2026/2026-10-06.md)** — 27 elementos/items
+**Última edición · Latest issue: [2026-10-07](digests/2026/2026-10-07.md)** — 30 elementos/items
 
 **🤖 Robótica · Robotics**
-- [TACET: Context-Appropriate Acoustic-Social Navigation for Quadrupeds](https://arxiv.org/abs/2610.03828) — *arXiv cs.RO (Robotics)*
-- [GOTT: Object-centric Dexterous Manipulation with a Reusable Cross-Embodiment Primitive](https://arxiv.org/abs/2610.03861) — *arXiv cs.RO (Robotics)*
-- [MOSAIC-SV: Real-Time Adaptive Identification of Vessel Dynamics for the Control and Deployment of Aquatic Robots](https://arxiv.org/abs/2610.03898) — *arXiv cs.RO (Robotics)*
+- [Generalizable Robustness Testing of DNN-Based Robotic Navigation Systems via XAI-Guided Search](https://arxiv.org/abs/2610.06862) — *arXiv cs.RO (Robotics)*
+- [RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality Manifolds](https://arxiv.org/abs/2610.06863) — *arXiv cs.RO (Robotics)*
+- [Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games](https://arxiv.org/abs/2610.06882) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 6 – A Complete Auroral Oval from SMILE](https://science.nasa.gov/image-article/apod-2026-october-6-a-complete-auroral-oval-from-smile/) — *NASA · News Releases*
-- [The Beaver Brown Waters of Rupert Bay](https://science.nasa.gov/earth/earth-observatory/the-beaver-brown-waters-of-rupert-bay/) — *NASA · News Releases*
-- [Curiosity Blog, Sols 5029-5035: Back in the Lab](https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/) — *NASA · News Releases*
+- [APOD: 2026 October 7 – Supernova Remnant Pa 30](https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/) — *NASA · News Releases*
+- [Arctic Sea Ice Shrinks to Its 2026 Minimum](https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/) — *NASA · News Releases*
+- [NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure](https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation](https://arxiv.org/abs/2610.05608) — *Hugging Face Daily Papers*
-- [PointWAM: 3D World Action Modeling for Dexterous Robotic Manipulation](https://arxiv.org/abs/2610.02840) — *Hugging Face Daily Papers*
-- [ALoDLM: Adaptively Looped Diffusion Language Models](https://arxiv.org/abs/2610.04198) — *Hugging Face Daily Papers*
+- [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://arxiv.org/abs/2610.08448) — *Hugging Face Daily Papers*
+- [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://arxiv.org/abs/2610.03543) — *Hugging Face Daily Papers*
+- [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://arxiv.org/abs/2610.07767) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
