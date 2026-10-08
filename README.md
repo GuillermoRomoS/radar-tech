@@ -21,24 +21,28 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-07](digests/2026/2026-10-07.md)** — 30 elementos/items
+**Última edición · Latest issue: [2026-10-08](digests/2026/2026-10-08.md)** — 32 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Generalizable Robustness Testing of DNN-Based Robotic Navigation Systems via XAI-Guided Search](https://arxiv.org/abs/2610.06862) — *arXiv cs.RO (Robotics)*
-- [RMRRT: Riemannian Barrier Metric RRT for Inequality-Aware Steering on Equality Manifolds](https://arxiv.org/abs/2610.06863) — *arXiv cs.RO (Robotics)*
-- [Geometric Coherence via Weighted Matching for 3D Heterogeneous Multi-Agent Reach-Avoid Games](https://arxiv.org/abs/2610.06882) — *arXiv cs.RO (Robotics)*
+- [A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs](https://arxiv.org/abs/2610.08800) — *arXiv cs.RO (Robotics)*
+- [SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in Robotic Grasping](https://arxiv.org/abs/2610.08802) — *arXiv cs.RO (Robotics)*
+- [Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models](https://arxiv.org/abs/2610.08807) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 7 – Supernova Remnant Pa 30](https://science.nasa.gov/image-article/apod-2026-october-7-supernova-remnant-pa-30/) — *NASA · News Releases*
-- [Arctic Sea Ice Shrinks to Its 2026 Minimum](https://science.nasa.gov/earth/earth-observatory/arctic-sea-ice-shrinks-to-its-2026-minimum/) — *NASA · News Releases*
-- [NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure](https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/) — *NASA · News Releases*
+- [APOD: 2026 October 8 – The Saturn System Smörgåsbord](https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/) — *NASA · News Releases*
+- [Fighting Drought in Texas Cotton Country](https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/) — *NASA · News Releases*
+- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing](https://spectrum.ieee.org/anderon-quantum-fab) — *IEEE Spectrum · Computing*
+- [As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) — *Quanta Magazine · Computer Science*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability](https://arxiv.org/abs/2610.08448) — *Hugging Face Daily Papers*
-- [DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation](https://arxiv.org/abs/2610.03543) — *Hugging Face Daily Papers*
-- [TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models](https://arxiv.org/abs/2610.07767) — *Hugging Face Daily Papers*
+- [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://arxiv.org/abs/2609.38169) — *Hugging Face Daily Papers*
+- [Long-WAM: Scaling the Context of World-Action Models](https://arxiv.org/abs/2610.10528) — *Hugging Face Daily Papers*
+- [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://arxiv.org/abs/2610.08621) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
