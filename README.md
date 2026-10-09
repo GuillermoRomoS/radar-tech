@@ -21,28 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-08](digests/2026/2026-10-08.md)** — 32 elementos/items
+**Última edición · Latest issue: [2026-10-09](digests/2026/2026-10-09.md)** — 30 elementos/items
 
 **🤖 Robótica · Robotics**
-- [A Review Of Robotic World Models For Dynamic Environments Based On Factor And Scene Graphs](https://arxiv.org/abs/2610.08800) — *arXiv cs.RO (Robotics)*
-- [SAFE: Unified Slip and Fracture Detection with Low-Cost Acoustic Sensing in Robotic Grasping](https://arxiv.org/abs/2610.08802) — *arXiv cs.RO (Robotics)*
-- [Context-Aware Adaptive Pesticide Spraying for Agricultural Robots under Changing Weather and Terrain Using Vision-Language Models](https://arxiv.org/abs/2610.08807) — *arXiv cs.RO (Robotics)*
+- [Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes](https://arxiv.org/abs/2610.10564) — *arXiv cs.RO (Robotics)*
+- [Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection](https://arxiv.org/abs/2610.10601) — *arXiv cs.RO (Robotics)*
+- [TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception](https://arxiv.org/abs/2610.10637) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 8 – The Saturn System Smörgåsbord](https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/) — *NASA · News Releases*
-- [Fighting Drought in Texas Cotton Country](https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/) — *NASA · News Releases*
-- [NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival](https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [The U.S. Just Bet $1 Billion on Quantum Chip Manufacturing](https://spectrum.ieee.org/anderon-quantum-fab) — *IEEE Spectrum · Computing*
-- [As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines](https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/) — *Quanta Magazine · Computer Science*
+- [APOD: 2026 October 9 – Stickney Crater](https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/) — *NASA · News Releases*
+- [Floodwaters Overwhelm Thailand](https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/) — *NASA · News Releases*
+- [NASA Briefing to Highlight Contributions to Martian Moons Mission](https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization](https://arxiv.org/abs/2609.38169) — *Hugging Face Daily Papers*
-- [Long-WAM: Scaling the Context of World-Action Models](https://arxiv.org/abs/2610.10528) — *Hugging Face Daily Papers*
-- [Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness](https://arxiv.org/abs/2610.08621) — *Hugging Face Daily Papers*
+- [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://arxiv.org/abs/2610.06100) — *Hugging Face Daily Papers*
+- [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://arxiv.org/abs/2610.08215) — *Hugging Face Daily Papers*
+- [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://arxiv.org/abs/2610.12242) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
