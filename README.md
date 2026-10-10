@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-09](digests/2026/2026-10-09.md)** — 30 elementos/items
+**Última edición · Latest issue: [2026-10-10](digests/2026/2026-10-10.md)** — 18 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Does Dynamic-Point Filtering Help When Texture Is Scarce? A Controlled Study of ORB-SLAM2 Front-Ends in Synthetic Indoor Scenes](https://arxiv.org/abs/2610.10564) — *arXiv cs.RO (Robotics)*
-- [Teaching a Robot Dog New Tricks: Diverse Quadruped Skills via Combined Reinforcement and Imitation Learning with Adversarial Task Selection](https://arxiv.org/abs/2610.10601) — *arXiv cs.RO (Robotics)*
-- [TacHair: Tactile Contact-Distribution Guided Online Correction for Robotic Hair Stroking and Perception](https://arxiv.org/abs/2610.10637) — *arXiv cs.RO (Robotics)*
+- [Video Friday: Robot Decommissioning Takes a Fun Turn](https://spectrum.ieee.org/video-friday-reachy-mini-raps) — *IEEE Spectrum · Robotics*
+- [Why humanoid robot demos still fail the generalization test](https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/) — *The Robot Report*
+- [Boston Dynamics gives more insight into its redesigned humanoid hand](https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 9 – Stickney Crater](https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/) — *NASA · News Releases*
-- [Floodwaters Overwhelm Thailand](https://science.nasa.gov/earth/earth-observatory/floodwaters-overwhelm-thailand/) — *NASA · News Releases*
-- [NASA Briefing to Highlight Contributions to Martian Moons Mission](https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/) — *NASA · News Releases*
+- [APOD: 2026 October 10 – Lunar Farside](https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/) — *NASA · News Releases*
+- [NASA Seeks US Industry Plans for Commercial Space Stations](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/) — *NASA · News Releases*
+- [NASA Demonstrates Next-Generation Heat Shield Technologies](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation](https://arxiv.org/abs/2610.06100) — *Hugging Face Daily Papers*
-- [Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?](https://arxiv.org/abs/2610.08215) — *Hugging Face Daily Papers*
-- [TokenRouter: Efficient Serving System for Token-Level LLM Routing](https://arxiv.org/abs/2610.12242) — *Hugging Face Daily Papers*
+- [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://arxiv.org/abs/2610.12299) — *Hugging Face Daily Papers*
+- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) — *Hugging Face Daily Papers*
+- [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://arxiv.org/abs/2610.12461) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
