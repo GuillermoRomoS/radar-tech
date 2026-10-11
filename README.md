@@ -21,24 +21,21 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-10](digests/2026/2026-10-10.md)** — 18 elementos/items
+**Última edición · Latest issue: [2026-10-11](digests/2026/2026-10-11.md)** — 9 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Video Friday: Robot Decommissioning Takes a Fun Turn](https://spectrum.ieee.org/video-friday-reachy-mini-raps) — *IEEE Spectrum · Robotics*
-- [Why humanoid robot demos still fail the generalization test](https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/) — *The Robot Report*
-- [Boston Dynamics gives more insight into its redesigned humanoid hand](https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/) — *The Robot Report*
+- [Why dexterity is physical AI’s real bottleneck](https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 10 – Lunar Farside](https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/) — *NASA · News Releases*
-- [NASA Seeks US Industry Plans for Commercial Space Stations](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/) — *NASA · News Releases*
-- [NASA Demonstrates Next-Generation Heat Shield Technologies](https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-next-generation-heat-shield-technologies/) — *NASA · News Releases*
+- [APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/) — *NASA · News Releases*
+- [NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium](https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://arxiv.org/abs/2610.12299) — *Hugging Face Daily Papers*
-- [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) — *Hugging Face Daily Papers*
-- [OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs](https://arxiv.org/abs/2610.12461) — *Hugging Face Daily Papers*
+- [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) — *Hugging Face Daily Papers*
+- [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794) — *Hugging Face Daily Papers*
+- [TestPrism: Rethinking Test Evaluation Beyond a Single Reference](https://arxiv.org/abs/2610.12289) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
 
 <!-- RADAR:END -->
 
