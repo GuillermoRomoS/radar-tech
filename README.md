@@ -21,21 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-11](digests/2026/2026-10-11.md)** — 9 elementos/items
+**Última edición · Latest issue: [2026-10-12](digests/2026/2026-10-12.md)** — 21 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Why dexterity is physical AI’s real bottleneck](https://www.therobotreport.com/why-dexterity-is-physical-ai-real-bottleneck/) — *The Robot Report*
+- [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) — *arXiv cs.RO (Robotics)*
+- [PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface](https://arxiv.org/abs/2610.12558) — *arXiv cs.RO (Robotics)*
+- [What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents](https://arxiv.org/abs/2610.12561) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 11 – Ice Fishing for Cosmic Neutrinos](https://science.nasa.gov/image-article/apod-2026-october-11-ice-fishing-for-cosmic-neutrinos/) — *NASA · News Releases*
-- [NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium](https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/) — *NASA · News Releases*
+- [APOD: 2026 October 12 – Jupiter and the Moons](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/) — *NASA · News Releases*
+- [Antarctic Sea Ice Grows to Its 2026 Maximum](https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/) — *NASA · News Releases*
+- [Lunar Mission Will Explore Old Lava Tubes as Potential Habitats](https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis) — *IEEE Spectrum · Aerospace*
+
+**💻 Informática · Computing**
+- [Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots](https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [REMORY: Learning Residual Memory for Context Compaction](https://arxiv.org/abs/2610.11287) — *Hugging Face Daily Papers*
-- [Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks](https://arxiv.org/abs/2610.11794) — *Hugging Face Daily Papers*
-- [TestPrism: Rethinking Test Evaluation Beyond a Single Reference](https://arxiv.org/abs/2610.12289) — *Hugging Face Daily Papers*
+- [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://arxiv.org/abs/2610.12572) — *Hugging Face Daily Papers*
+- [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://arxiv.org/abs/2610.13527) — *Hugging Face Daily Papers*
+- [Reflex: Visually Grounded Reactive Humanoid Control](https://arxiv.org/abs/2610.12772) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md) · [2026-10-02](digests/2026/2026-10-02.md)
+**Archivo reciente · Recent archive:** [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md)
 
 <!-- RADAR:END -->
 
