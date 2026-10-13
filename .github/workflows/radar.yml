@@ -7,6 +7,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: radar
@@ -40,3 +42,23 @@ jobs:
             git commit -m "radar: $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Web · Build site
+        run: python build_site.py --out site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  pages:
+    # Publica la web en GitHub Pages. Requiere activar una vez Settings → Pages → Source: GitHub Actions.
+    # Si Pages no está activado, este job falla sin afectar al digest.
+    needs: digest
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

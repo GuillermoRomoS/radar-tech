@@ -97,6 +97,31 @@ class TestCollect(unittest.TestCase):
         for needle in ("**ES**", "**EN**", "Robótica · Robotics", "(https://arxiv.org/abs/0000.00001)", "Unavailable sources"):
             self.assertIn(needle, md)
 
+    def test_excluded_domains_are_skipped(self):
+        self.assertTrue(radar.is_excluded("https://content.knowledgehub.wiley.com/x", ["knowledgehub.wiley.com"]))
+        self.assertFalse(radar.is_excluded("https://spectrum.ieee.org/x", ["knowledgehub.wiley.com"]))
+        items, _ = radar.collect(self.sources, NOW, 48, {}, self.tmp, ["example.org"])
+        self.assertNotIn("TEST atom entry", [i["title"] for i in items])
+
+    def test_site_parses_rendered_digest(self):
+        items, errors = radar.collect(self.sources, NOW, 48, {}, self.tmp)
+        md = radar.render_digest(NOW.date(), items, errors, len(self.sources))
+        parsed = load_site().parse_digest(md, "2026-10-02")
+        self.assertEqual([p["title"] for p in parsed], [i["title"] for i in items])
+        self.assertEqual([p["category"] for p in parsed], [i["category"] for i in items])
+        self.assertEqual(parsed[0]["kind"], "research")
+        self.assertEqual(parsed[-1]["votes"], 90)
+        self.assertTrue(parsed[0]["excerpt"].startswith("A bold test abstract"))
+
+
+def load_site():
+    """Carga build_site.py por ruta (no es un paquete)."""
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("radar_site", Path(__file__).resolve().parents[1] / "build_site.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
 
 if __name__ == "__main__":
     unittest.main()
