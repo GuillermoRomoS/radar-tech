@@ -21,27 +21,25 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-12](digests/2026/2026-10-12.md)** — 21 elementos/items
+**Última edición · Latest issue: [2026-10-13](digests/2026/2026-10-13.md)** — 14 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Fly-by-Code: Embodied Coding Agents for Aerial Manipulation with Active Visual and Physical Feedback](https://arxiv.org/abs/2610.12549) — *arXiv cs.RO (Robotics)*
-- [PanTact: Teaching Whole-Body Dexterity with a Wearable Contact Interface](https://arxiv.org/abs/2610.12558) — *arXiv cs.RO (Robotics)*
-- [What Should Embodied Agents Remember? Benchmarking and Evaluating Memory Modality for Embodied Agents](https://arxiv.org/abs/2610.12561) — *arXiv cs.RO (Robotics)*
+- [Closing the reality gap: Why real-time execution has become the new competitive advantage](https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 12 – Jupiter and the Moons](https://science.nasa.gov/image-article/apod-2026-october-12-jupiter-and-the-moons/) — *NASA · News Releases*
-- [Antarctic Sea Ice Grows to Its 2026 Maximum](https://science.nasa.gov/earth/earth-observatory/antarctic-sea-ice-grows-to-its-2026-maximum/) — *NASA · News Releases*
-- [Lunar Mission Will Explore Old Lava Tubes as Potential Habitats](https://spectrum.ieee.org/nasa-moon-mission-gimli-artemis) — *IEEE Spectrum · Aerospace*
+- [APOD: 2026 October 13 – Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/) — *NASA · News Releases*
+- [An Impact Structure With Legs](https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/) — *NASA · News Releases*
+- [NASA’s SpaceX CRS-35 Mission to Launch Health Research](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/) — *NASA · News Releases*
 
 **💻 Informática · Computing**
-- [Learning to Play Like a Pro: Adaptive Motion Planning and Tracking for Humanoid Robots](https://content.knowledgehub.wiley.com/learning-to-play-like-a-pro-adaptive-motion-planning-and-tracking-for-humanoid-robots/) — *IEEE Spectrum · Computing*
+- [Is ‘Attention’ the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/) — *Quanta Magazine · Computer Science*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models](https://arxiv.org/abs/2610.12572) — *Hugging Face Daily Papers*
-- [S-Space: Exploring Spatial Workspace in Multimodal Language Models](https://arxiv.org/abs/2610.13527) — *Hugging Face Daily Papers*
-- [Reflex: Visually Grounded Reactive Humanoid Control](https://arxiv.org/abs/2610.12772) — *Hugging Face Daily Papers*
+- [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) — *Hugging Face Daily Papers*
+- [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) — *Hugging Face Daily Papers*
+- [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://arxiv.org/abs/2610.13361) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md) · [2026-10-03](digests/2026/2026-10-03.md)
+**Archivo reciente · Recent archive:** [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md)
 
 <!-- RADAR:END -->
 
