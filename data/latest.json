@@ -154,9 +154,84 @@
       "category": "ia",
       "kind": "news",
       "extra": ""
+    },
+    {
+      "id": "80affb859dfd3d5f",
+      "title": "NASA Science, Cargo Launch on 35th SpaceX Resupply Mission to Station",
+      "link": "https://www.nasa.gov/news-release/nasa-science-cargo-launch-on-35th-spacex-resupply-mission-to-station/",
+      "excerpt": "NASA’s SpaceX 35th commercial resupply mission lifted off at 6:33 a.m. EDT Tuesday aboard a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida, carrying more than 6,300 pounds of supplies and hardware, bound for the International Space Station. Following its successful…",
+      "date": "2026-10-13T11:12:18+00:00",
+      "source": "NASA · News Releases",
+      "category": "espacio",
+      "kind": "official",
+      "extra": ""
+    },
+    {
+      "id": "32f05098a7ff4275",
+      "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
+      "link": "https://arxiv.org/abs/2610.09326",
+      "excerpt": "Video interactive storytelling enables viewers to actively steer how a video unfolds. However, once we allow viewers to intervene during generation, a new challenge arises: The viewer's request can have latent dependencies on both the grounding source and the current rendered video state. These dependencies may not be…",
+      "date": "2026-10-06T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 61 · [HF](https://huggingface.co/papers/2610.09326)"
+    },
+    {
+      "id": "b8b9e26f526b19d8",
+      "title": "Multi-Stream Attention Residuals",
+      "link": "https://arxiv.org/abs/2610.13630",
+      "excerpt": "Attention Residuals (AttnRes) enables content-dependent retrieval over network depth, which can be viewed as single-stream softmax attention along the depth axis. Inspired by the success of multi-head attention along the sequence axis, we introduce Multi-Stream Attention Residuals (MSAR), an extension of AttnRes that…",
+      "date": "2026-10-08T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 32 · [HF](https://huggingface.co/papers/2610.13630)"
+    },
+    {
+      "id": "609a3920c288702f",
+      "title": "Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents",
+      "link": "https://arxiv.org/abs/2609.33304",
+      "excerpt": "Personal Graphical User Interface (GUI) agents rely on interaction history to infer what a user wants from ambiguous instructions and to anticipate recurring routines. Existing approaches retrieve task-relevant history and append it to the policy's context, implicitly assuming that experience relevant to a task…",
+      "date": "2026-09-26T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 29 · [HF](https://huggingface.co/papers/2609.33304)"
+    },
+    {
+      "id": "20ab7ee2c3de2e01",
+      "title": "Contextual Correction of Parallel Draftsfor Speculative Decoding",
+      "link": "https://arxiv.org/abs/2610.12570",
+      "excerpt": "Speculative decoding accelerates large language model inference by using a lightweight drafter to propose multiple tokens that are subsequently verified in parallel by the target model. Recent diffusion-based drafters make this paradigm particularly attractive: deep attention-based neural backbones provide strong…",
+      "date": "2026-10-07T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 26 · [HF](https://huggingface.co/papers/2610.12570)"
+    },
+    {
+      "id": "902d7503d3634bfd",
+      "title": "CrossTimeEdit: A Decade-Spanning Cross-View Dataset and Reward-Guided Editing for Historical Street-View Generation",
+      "link": "https://arxiv.org/abs/2609.36616",
+      "excerpt": "Historical street-view imagery records urban evolution, but uneven coverage leaves substantial gaps in historical records. Generating plausible past appearances requires restoring changed structures while preserving persistent scene content. We construct VIGOR-his, a decade-spanning cross-view dataset containing…",
+      "date": "2026-09-28T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 19 · [HF](https://huggingface.co/papers/2609.36616)"
+    },
+    {
+      "id": "410af4e8e1a3a5e6",
+      "title": "Humanity's Sixth Sense: Benchmarking Intuitive Visual Reasoning in Multimodal Models",
+      "link": "https://arxiv.org/abs/2610.08966",
+      "excerpt": "Humans perceive far more in a scene than what is explicitly depicted: a single glance captures past causes and future trajectories; a quick peek determines if a vehicle can fit between two parked cars; a few seconds of video reveals who holds authority in a room; and a fleeting clip highlights subtle abstract patterns…",
+      "date": "2026-10-07T20:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 19 · [HF](https://huggingface.co/papers/2610.08966)"
     }
   ],
-  "errors": [
-    "Google DeepMind Blog: not well-formed (invalid token): line 1, column 0"
-  ]
+  "errors": []
 }

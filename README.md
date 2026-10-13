@@ -21,7 +21,7 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-13](digests/2026/2026-10-13.md)** — 14 elementos/items
+**Última edición · Latest issue: [2026-10-13](digests/2026/2026-10-13.md)** — 21 elementos/items
 
 **🤖 Robótica · Robotics**
 - [Closing the reality gap: Why real-time execution has become the new competitive advantage](https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/) — *The Robot Report*
