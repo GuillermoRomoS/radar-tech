@@ -1,5 +1,7 @@
 {
   "_comment": "Fuentes reales verificadas el 2026-10-02. type: rss | atom | hf_daily. kind: research | news | official. limit: máx. elementos por fuente y día.",
+  "_exclude_comment": "Dominios que nunca entran en el digest aunque aparezcan en un feed (contenido patrocinado).",
+  "exclude_link_domains": ["knowledgehub.wiley.com"],
   "sources": [
     {"name": "arXiv cs.RO (Robotics)", "url": "https://rss.arxiv.org/rss/cs.RO", "type": "rss", "category": "robotica", "kind": "research", "limit": 6},
     {"name": "IEEE Spectrum · Robotics", "url": "https://spectrum.ieee.org/feeds/topic/robotics.rss", "type": "rss", "category": "robotica", "kind": "news", "limit": 4},

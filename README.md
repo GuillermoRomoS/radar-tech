@@ -5,7 +5,7 @@
 **EN** · A daily, **verifiable** radar of new work in robotics, space, computing and AI: research papers, official sources and specialised media, plus an **editorial issue** with critical analysis.
 
 [![Radar diario](https://github.com/GuillermoRomoS/radar-tech/actions/workflows/radar.yml/badge.svg)](https://github.com/GuillermoRomoS/radar-tech/actions/workflows/radar.yml)
-· 📰 [Ediciones editoriales · Editorials](editorial/) · 🗂️ [Archivo diario · Daily archive](digests/) · 🔔 [RSS](feed.xml)
+· 🌐 **[Web con buscador · Searchable site](https://guillermoromos.github.io/radar-tech/)** · 📰 [Ediciones editoriales · Editorials](editorial/) · 🗂️ [Archivo diario · Daily archive](digests/) · 🔔 [RSS](feed.xml)
 
 ## Principios · Principles
 
@@ -53,12 +53,14 @@ sources.json ──► radar.py ──► digests/AAAA/AAAA-MM-DD.md
                  │  ├─ ventana de 48 h + deduplicación (data/seen.json)
                  │  ├─ arXiv: solo envíos nuevos (announce_type = new)
                  │  └─ README.md (este bloque) + feed.xml + data/latest.json
-GitHub Actions (cron diario 05:17 UTC) ──► commit automático
+digests/ + editorial/ ──► build_site.py ──► site/index.html (GitHub Pages, buscador)
+GitHub Actions (cron diario 05:17 UTC) ──► commit automático + despliegue de la web
 ```
 
 ```bash
 python radar.py --dry-run          # previsualizar sin escribir · preview only
 python radar.py                    # generar la edición de hoy · build today's issue
+python build_site.py               # web estática en site/ · static site in site/
 python -m unittest discover -s tests   # tests
 ```
 

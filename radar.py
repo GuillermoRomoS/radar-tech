@@ -27,6 +27,7 @@ import os
 import re
 import sys
 import time
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -101,6 +102,12 @@ def parse_date(value: str | None) -> dt.datetime | None:
 
 def item_id(link: str, title: str) -> str:
     return hashlib.sha1((link or title).strip().lower().encode()).hexdigest()[:16]
+
+
+def is_excluded(link: str, domains: list[str] | tuple[str, ...]) -> bool:
+    """True si el enlace apunta a un dominio excluido (p. ej. contenido patrocinado dentro de un feed)."""
+    host = urllib.parse.urlsplit(link).hostname or ""
+    return any(host == d or host.endswith("." + d) for d in domains)
 
 
 def md_escape(text: str) -> str:
@@ -196,7 +203,7 @@ def parse_hf_daily(raw: bytes) -> list[dict]:
 # Núcleo / Core
 # --------------------------------------------------------------------------- #
 def collect(sources: list[dict], now: dt.datetime, window_h: int, seen: dict,
-            fixtures: Path | None) -> tuple[list[dict], list[str]]:
+            fixtures: Path | None, excluded: list[str] | tuple[str, ...] = ()) -> tuple[list[dict], list[str]]:
     selected: list[dict] = []
     errors: list[str] = []
     cutoff = now - dt.timedelta(hours=window_h)
@@ -215,6 +222,8 @@ def collect(sources: list[dict], now: dt.datetime, window_h: int, seen: dict,
                 break
             if not it["title"] or not it["link"]:
                 continue
+            if is_excluded(it["link"], excluded):
+                continue  # p. ej. artículos patrocinados que IEEE Spectrum mezcla en sus feeds
             if it.get("announce") and it["announce"] != "new":
                 continue  # arXiv: solo envíos nuevos, no reemplazos ni cross-lists
             if it["date"] and not it.get("skip_window") and not (cutoff <= it["date"] <= now + dt.timedelta(hours=12)):
@@ -358,12 +367,14 @@ def main(argv: list[str] | None = None) -> int:
         now = dt.datetime.combine(day, dt.time(23, 59), tzinfo=dt.timezone.utc)
     day = now.date()
 
-    sources = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))["sources"]
+    config = json.loads(SOURCES_FILE.read_text(encoding="utf-8"))
+    sources = config["sources"]
     seen: dict = json.loads(SEEN_FILE.read_text(encoding="utf-8")) if SEEN_FILE.exists() else {}
     if args.dry_run:
         seen = {}
 
-    items, errors = collect(sources, now, args.window_hours, seen, args.fixtures)
+    items, errors = collect(sources, now, args.window_hours, seen, args.fixtures,
+                            config.get("exclude_link_domains", []))
     print(f"[radar] {len(items)} elementos nuevos · {len(errors)} fuentes con error", file=sys.stderr)
     for e in errors:
         print(f"[radar]   ! {e}", file=sys.stderr)
