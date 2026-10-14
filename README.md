@@ -21,25 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-13](digests/2026/2026-10-13.md)** — 21 elementos/items
+**Última edición · Latest issue: [2026-10-14](digests/2026/2026-10-14.md)** — 29 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Closing the reality gap: Why real-time execution has become the new competitive advantage](https://www.therobotreport.com/closing-reality-gap-why-real-time-execution-has-become-new-competitive-advantage/) — *The Robot Report*
+- [RoboHarness: A Simple Harness Outperforms VLA and World Actions Models](https://arxiv.org/abs/2610.14018) — *arXiv cs.RO (Robotics)*
+- [LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://arxiv.org/abs/2610.14020) — *arXiv cs.RO (Robotics)*
+- [OIL: An Object Interaction Layer for Humanoid Whole-Body Control](https://arxiv.org/abs/2610.14033) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 13 – Desert Stairway to Heaven](https://science.nasa.gov/image-article/apod-2026-october-13-desert-stairway-to-heaven/) — *NASA · News Releases*
-- [An Impact Structure With Legs](https://science.nasa.gov/earth/earth-observatory/an-impact-structure-with-legs/) — *NASA · News Releases*
-- [NASA’s SpaceX CRS-35 Mission to Launch Health Research](https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [Is ‘Attention’ the Essence of Intelligence?](https://www.quantamagazine.org/is-attention-the-essence-of-intelligence-20261012/) — *Quanta Magazine · Computer Science*
+- [APOD: 2026 October 14 – Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/) — *NASA · News Releases*
+- [Hurricane Simon Lurks Off the Mexican Coast](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/) — *NASA · News Releases*
+- [NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer](https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives](https://arxiv.org/abs/2609.39601) — *Hugging Face Daily Papers*
-- [Scaling Agentic Data for Long-Horizon Terminal Intelligence](https://arxiv.org/abs/2610.13166) — *Hugging Face Daily Papers*
-- [AgentSWE: Can Coding Agents Build the Agent You Actually Want?](https://arxiv.org/abs/2610.13361) — *Hugging Face Daily Papers*
+- [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://arxiv.org/abs/2610.18356) — *Hugging Face Daily Papers*
+- [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://arxiv.org/abs/2610.17953) — *Hugging Face Daily Papers*
+- [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md) · [2026-10-04](digests/2026/2026-10-04.md)
+**Archivo reciente · Recent archive:** [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md)
 
 <!-- RADAR:END -->
 
