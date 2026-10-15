@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-14](digests/2026/2026-10-14.md)** — 29 elementos/items
+**Última edición · Latest issue: [2026-10-15](digests/2026/2026-10-15.md)** — 24 elementos/items
 
 **🤖 Robótica · Robotics**
-- [RoboHarness: A Simple Harness Outperforms VLA and World Actions Models](https://arxiv.org/abs/2610.14018) — *arXiv cs.RO (Robotics)*
-- [LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures](https://arxiv.org/abs/2610.14020) — *arXiv cs.RO (Robotics)*
-- [OIL: An Object Interaction Layer for Humanoid Whole-Body Control](https://arxiv.org/abs/2610.14033) — *arXiv cs.RO (Robotics)*
+- [$\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.18950) — *arXiv cs.RO (Robotics)*
+- [Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control](https://arxiv.org/abs/2610.18991) — *arXiv cs.RO (Robotics)*
+- [RingNav: Task-Shaped Circular Memory for Visual Heading](https://arxiv.org/abs/2610.19044) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 14 – Mars and the Beehive Under an Aurora](https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/) — *NASA · News Releases*
-- [Hurricane Simon Lurks Off the Mexican Coast](https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/) — *NASA · News Releases*
-- [NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer](https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/) — *NASA · News Releases*
+- [APOD: 2026 October 15 – The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/) — *NASA · News Releases*
+- [Fires Arrive in the Amazon Rainforest](https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/) — *NASA · News Releases*
+- [NASA to Host News Conference Previewing US Spacewalks 100, 101](https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes](https://arxiv.org/abs/2610.18356) — *Hugging Face Daily Papers*
-- [Agent-Reflex: Teaching Language Agents to Act Reflectively](https://arxiv.org/abs/2610.17953) — *Hugging Face Daily Papers*
-- [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) — *Hugging Face Daily Papers*
+- [Player-1: Learning to Play from Synthetic Experience](https://arxiv.org/abs/2610.20584) — *Hugging Face Daily Papers*
+- [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://arxiv.org/abs/2610.20344) — *Hugging Face Daily Papers*
+- [Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://arxiv.org/abs/2610.20572) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md) · [2026-10-05](digests/2026/2026-10-05.md)
+**Archivo reciente · Recent archive:** [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md)
 
 <!-- RADAR:END -->
 
