@@ -21,7 +21,7 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-16](digests/2026/2026-10-16.md)** — 25 elementos/items
+**Última edición · Latest issue: [2026-10-16](digests/2026/2026-10-16.md)** — 47 elementos/items
 
 **🤖 Robótica · Robotics**
 - [Causal Analysis of Robot Foundation Models Enables Efficiency Gains](https://arxiv.org/abs/2610.20750) — *arXiv cs.RO (Robotics)*
