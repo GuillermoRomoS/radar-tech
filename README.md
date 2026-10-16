@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-15](digests/2026/2026-10-15.md)** — 24 elementos/items
+**Última edición · Latest issue: [2026-10-16](digests/2026/2026-10-16.md)** — 25 elementos/items
 
 **🤖 Robótica · Robotics**
-- [$\lambda_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.18950) — *arXiv cs.RO (Robotics)*
-- [Contact-UAN: Unsupervised Actuator Networks as a Residual World Model for Humanoid Control](https://arxiv.org/abs/2610.18991) — *arXiv cs.RO (Robotics)*
-- [RingNav: Task-Shaped Circular Memory for Visual Heading](https://arxiv.org/abs/2610.19044) — *arXiv cs.RO (Robotics)*
+- [Causal Analysis of Robot Foundation Models Enables Efficiency Gains](https://arxiv.org/abs/2610.20750) — *arXiv cs.RO (Robotics)*
+- [Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models](https://arxiv.org/abs/2610.20767) — *arXiv cs.RO (Robotics)*
+- [Navigation by Skylight Polarization via Rayleigh Model Optimization on a Road Vehicle](https://arxiv.org/abs/2610.20797) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 15 – The Milky Way over Manhattan](https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/) — *NASA · News Releases*
-- [Fires Arrive in the Amazon Rainforest](https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/) — *NASA · News Releases*
-- [NASA to Host News Conference Previewing US Spacewalks 100, 101](https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/) — *NASA · News Releases*
+- [APOD: 2026 October 16 – Chasing the International Space Station](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/) — *NASA · News Releases*
+- [Isaias Dims the Gulf Coast](https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/) — *NASA · News Releases*
+- [NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Player-1: Learning to Play from Synthetic Experience](https://arxiv.org/abs/2610.20584) — *Hugging Face Daily Papers*
-- [Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents](https://arxiv.org/abs/2610.20344) — *Hugging Face Daily Papers*
-- [Recovering Reliable Supervision via Critique-Guided On-Policy Distillation](https://arxiv.org/abs/2610.20572) — *Hugging Face Daily Papers*
+- [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://arxiv.org/abs/2610.21601) — *Hugging Face Daily Papers*
+- [Self-Evolving Agent Harness](https://arxiv.org/abs/2610.18813) — *Hugging Face Daily Papers*
+- [Speculative Forcing for Efficient Autoregressive Video Generation](https://arxiv.org/abs/2610.22347) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md) · [2026-10-06](digests/2026/2026-10-06.md)
+**Archivo reciente · Recent archive:** [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md)
 
 <!-- RADAR:END -->
 
