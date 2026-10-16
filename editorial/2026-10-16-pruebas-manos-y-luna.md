@@ -54,23 +54,29 @@ Tres días después, Alberto Rodriguez, responsable de comportamiento de Atlas, 
 
 **Lectura crítica.** El artículo que lo cuenta es una **tribuna de opinión** firmada por la directora general de un fabricante de controladores, que termina recomendando proveedores "trazables". Su tesis (más procesamiento local y modelos pequeños en fábrica) es razonable, pero es una predicción interesada, no un hecho. Tampoco nombra qué países o empresas quedan afectados.
 
+### 7. Gemini 4 Argon se estrena como modelo de razonamiento físico para robots (13 oct)
+
+**Hechos.** Google publicó cómo usar Gemini 4 Argon en robótica: controlar robots en simulación (MuJoCo) y en real sin entrenamiento específico, construir gemelos simulados a partir de vídeo o de un boceto a mano, y etiquetar y evaluar tareas a posteriori. Cifras de Google: **87 % en el benchmark ERQA** de razonamiento corporizado; en una tarea real, la tasa de éxito pasa del 56 % al 75 % tras mejorar la acción con más de 4.500 episodios simulados; y en un brazo SO-101 el tiempo de *pick-and-place* baja de 58,9 s a 17,4 s en tres iteraciones. Aparecen Spot, Franka FR3, ALOHA 2, SO-101 y un humanoide Apollo 2. Está disponible en la API de pago de Gemini y para suscriptores de Google AI Ultra. 🟢 [Google Developers Blog](https://developers.googleblog.com/gemini-4-argon-for-robotics/)
+
+**Lectura crítica.** Todas las cifras son de Google y varias proceden de simulación, no del robot real. La entrada no tiene una sección de seguridad: los límites que aparecen (rango de articulaciones, "no hacer trampas" en el simulador) son instrucciones dentro de los *prompts* de ejemplo, no salvaguardas del modelo. Lo interesante para estudiantes es que el SO-101 es un brazo de bajo coste y código abierto, así que parte de esto es reproducible en casa.
+
 ---
 
 ## 🚀 Espacio
 
-### 7. Despega Otter, el "inspector" autónomo de basura espacial (1 oct)
+### 8. Despega Otter, el "inspector" autónomo de basura espacial (1 oct)
 
 **Hechos.** La misión SSPICY de la NASA lanzó desde Vandenberg la nave **Otter**, de Starfish Space y del tamaño de una lavadora. A partir de principios de 2027 se acercará a "cientos de yardas" de hasta cuatro objetos estadounidenses inactivos en órbita baja, sin tocarlos, para medir su giro, orientación y estado. Navega de forma autónoma con visión por computador, usa propulsión eléctrica y prueba un brazo articulado para orientar los propulsores. 🟢 [NASA](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
 
 **Análisis.** Es la continuación natural de lo que contamos en la edición nº 1 sobre operaciones de encuentro y proximidad (RPO). Antes de reparar o retirar un satélite muerto hay que saber cómo gira, y eso es un problema de estimación de pose con visión, el mismo que en manipulación robótica.
 
-### 8. La NASA pide propuestas formales para las estaciones que sustituirán a la ISS (9 oct)
+### 9. La NASA pide propuestas formales para las estaciones que sustituirán a la ISS (9 oct)
 
 **Hechos.** La NASA publicó la solicitud de propuestas definitiva para estaciones espaciales comerciales en órbita baja. Habrá contratos de precio fijo con varios adjudicatarios: al menos dos en la fase de desarrollo y uno o más en la fase final de certificación y servicio. Plazo de propuestas: **8 de diciembre de 2026**. Adjudicación prevista: primavera de 2027. La nota no da importes ni fecha de retirada de la ISS. 🟢 [NASA](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/)
 
 **Análisis.** El modelo es el mismo que funcionó con la carga y las tripulaciones comerciales: la NASA compra un servicio en vez de construir la estación. La incógnita es el dinero, porque sin cifras es difícil saber cuántas empresas podrán competir de verdad.
 
-### 9. Unos 70 alunizajes en diez años y una misión para explorar un tubo de lava (30 sep – 12 oct)
+### 10. Unos 70 alunizajes en diez años y una misión para explorar un tubo de lava (30 sep – 12 oct)
 
 **Hechos.** Según los documentos de la NASA que cita *IEEE Spectrum*, el plan para una base lunar prevé unos **70 alunizajes en diez años, 45 de ellos antes de 2032**, con siete en 2027 y siete en 2028. Los contratos suelen rondar entre 100 y 200 M$ por misión. Desde el Apolo solo ha habido un alunizaje estadounidense intacto (Blue Ghost 1, marzo de 2025). 🟡 [IEEE Spectrum](https://spectrum.ieee.org/nasa-moon-base-landings)
 
@@ -78,7 +84,13 @@ Dentro de ese plan, la NASA seleccionó tres cargas científicas, entre ellas **
 
 **Lectura crítica.** *IEEE Spectrum* sitúa el pozo de Marius Hills "cerca del polo sur", pero está en Oceanus Procellarum, en la cara visible y a unos 14° de latitud norte. Y sobre el plan: pasar de un alunizaje intacto en medio siglo a siete por año es un salto enorme. Las cifras son objetivos, no hitos.
 
-### 10. Vuelve la Crew-12 tras 237 días; Sentinel-3C manda sus primeros datos (8–9 oct)
+### 11. Perseverance bate el récord de distancia en Marte conduciendo sola el 90 % del tiempo (11 oct)
+
+**Hechos.** El 11 de octubre Perseverance llegó a **45,22 km** recorridos y superó los 45,16 km de Opportunity, en unos cinco años desde que aterrizó en febrero de 2021. Según Mark Maimone (JPL), que diseñó el software de conducción autónoma de los cuatro últimos rovers, Perseverance conduce sola **alrededor del 90 % del tiempo**, frente al ~5 % de Opportunity y Curiosity. Lleva un segundo procesador con FPGA para el procesado de imagen y su AutoNav llega a 120 m/h. La autonomía mide la forma del terreno pero no su tipo, así que los planificadores humanos siguen marcando zonas de arena que hay que evitar. 🟡 [IEEE Spectrum](https://spectrum.ieee.org/mars-rover-distance-record) · 🟢 [NASA](https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/)
+
+**Análisis.** El salto del 5 % al 90 % no viene de un algoritmo nuevo y espectacular, sino de hardware dedicado (la FPGA) que permite procesar estéreo mientras el rover se mueve. Es un buen ejemplo de que, en robótica, la autonomía a menudo está limitada por el cómputo embarcado más que por el algoritmo.
+
+### 12. Vuelve la Crew-12 tras 237 días; Sentinel-3C manda sus primeros datos (8–9 oct)
 
 **Hechos.** La misión εpsilon (Crew-12) amerizó el 8 de octubre a las 15:34 GMT tras **237 días** en el espacio, con la astronauta de la ESA Sophie Adenot, Jessica Meir y Jack Hathaway (NASA) y Andrei Fedyaev (Roscosmos). Adenot dedicó unas 218 horas a 35 experimentos europeos. 🟢 [ESA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station)
 
@@ -88,7 +100,7 @@ El satélite Copernicus **Sentinel-3C**, lanzado el 15 de septiembre, publicó s
 
 ## 💻 Informática
 
-### 11. Anderon, la "TSMC de los chips cuánticos" de IBM, recibe hasta 1.000 M$ (16 sep; análisis del 7 oct)
+### 13. Anderon, la "TSMC de los chips cuánticos" de IBM, recibe hasta 1.000 M$ (16 sep; análisis del 7 oct)
 
 **Hechos.** El Departamento de Comercio de EE. UU. cerró una ayuda de I+D de la Ley CHIPS de **hasta 1.000 M$** para Anderon, filial de IBM creada este año, e IBM pone otros 1.000 M$. Anderon fabricará chips cuánticos superconductores en una línea de obleas de 300 mm en Albany (Nueva York) para terceros, con kits de diseño como una fundición convencional: "Ellos diseñan, nosotros fabricamos", dice su CEO, Mukesh Khare. Promete entregar obleas a clientes externos antes de fin de 2026. 🟡 [IEEE Spectrum](https://spectrum.ieee.org/anderon-quantum-fab)
 
@@ -126,20 +138,24 @@ El satélite Copernicus **Sentinel-3C**, lanzado el 15 de septiembre, publicó s
 
 **6. FCC restrictions on foreign-made advanced robots (July; analysis Oct 5).** *Critical note:* the coverage is an op-ed by a controller vendor, so its "shift to local AI" thesis is a prediction, not a fact. 🟡 [The Robot Report](https://www.therobotreport.com/fcc-robot-restrictions-could-accelerate-shift-to-local-ai/)
 
+**7. Gemini 4 Argon as a physical reasoning model for robots (Oct 13).** Google reports 87% on ERQA, a real-world success rate rising from 56% to 75% after 4,500+ simulated episodes, and SO-101 pick-and-place time falling from 58.9 s to 17.4 s. It's available via the paid Gemini API and Google AI Ultra. 🟢 [Google Developers Blog](https://developers.googleblog.com/gemini-4-argon-for-robotics/) — *Critical note:* all numbers are self-reported and several come from simulation; the limits shown are prompt instructions, not model safeguards.
+
 ## 🚀 Space
 
-**7. Otter launches (Oct 1).** NASA's SSPICY mission will autonomously inspect up to four defunct US objects in LEO from early 2027, without touching them. 🟢 [NASA](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
+**8. Otter launches (Oct 1).** NASA's SSPICY mission will autonomously inspect up to four defunct US objects in LEO from early 2027, without touching them. 🟢 [NASA](https://www.nasa.gov/centers-and-facilities/ames/nasas-sspicy-mission-to-demonstrate-in-space-inspection-technologies/)
 
-**8. Final RFP for commercial LEO stations (Oct 9).** Proposals are due Dec 8, 2026, with awards expected in spring 2027. No dollar figures are given. 🟢 [NASA](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/)
+**9. Final RFP for commercial LEO stations (Oct 9).** Proposals are due Dec 8, 2026, with awards expected in spring 2027. No dollar figures are given. 🟢 [NASA](https://www.nasa.gov/news-release/nasa-seeks-us-industry-plans-for-commercial-space-stations/)
 
-**9. About 70 Moon landings in ten years, plus GIMLI.** 🟡 [IEEE Spectrum](https://spectrum.ieee.org/nasa-moon-base-landings) · 🟢 [NASA](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/) — *Critical note:* *Spectrum* places the Marius Hills pit "near the south pole", but it lies in Oceanus Procellarum at about 14°N.
+**10. About 70 Moon landings in ten years, plus GIMLI.** 🟡 [IEEE Spectrum](https://spectrum.ieee.org/nasa-moon-base-landings) · 🟢 [NASA](https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/) — *Critical note:* *Spectrum* places the Marius Hills pit "near the south pole", but it lies in Oceanus Procellarum at about 14°N.
 
-**10. Crew-12 returns after 237 days (Oct 8)** 🟢 [ESA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station), **and Sentinel-3C sends its first data** 🟢 [ESA](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth).
+**11. Perseverance breaks the Mars distance record (Oct 11)** at 45.22 km, past Opportunity's 45.16 km, driving itself about 90% of the time (vs ~5% for Opportunity and Curiosity), helped by a dedicated FPGA for image processing. 🟡 [IEEE Spectrum](https://spectrum.ieee.org/mars-rover-distance-record) · 🟢 [NASA](https://science.nasa.gov/photojournal/comparing-off-world-rover-driving-distances/)
+
+**12. Crew-12 returns after 237 days (Oct 8)** 🟢 [ESA](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/epsilon/ESA_astronaut_Sophie_Adenot_returns_from_her_first_mission_to_the_International_Space_Station), **and Sentinel-3C sends its first data** 🟢 [ESA](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-3/Sentinel-3C_returns_its_first_views_of_Earth).
 
 ## 💻 Computing
 
-**11. Anderon, IBM's quantum foundry, gets up to $1B in CHIPS funding**, matched by IBM. It builds superconducting chips on a 300 mm line in Albany. 🟡 [IEEE Spectrum](https://spectrum.ieee.org/anderon-quantum-fab) — *Critical note:* what counts is working qubits, not wafers, and the neutrality toward IBM's rivals is still to be shown.
+**13. Anderon, IBM's quantum foundry, gets up to $1B in CHIPS funding**, matched by IBM. It builds superconducting chips on a 300 mm line in Albany. 🟡 [IEEE Spectrum](https://spectrum.ieee.org/anderon-quantum-fab) — *Critical note:* what counts is working qubits, not wafers, and the neutrality toward IBM's rivals is still to be shown.
 
 ---
 
-*Fuentes consultadas el 13 oct 2026 · Sources accessed Oct 13, 2026. ¿Has visto un error? Abre un issue · Spotted an error? Open an issue.*
+*Fuentes consultadas entre el 13 y el 16 oct 2026 · Sources accessed Oct 13–16, 2026. ¿Has visto un error? Abre un issue · Spotted an error? Open an issue.*
