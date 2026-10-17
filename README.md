@@ -21,24 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-16](digests/2026/2026-10-16.md)** — 47 elementos/items
+**Última edición · Latest issue: [2026-10-17](digests/2026/2026-10-17.md)** — 16 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Causal Analysis of Robot Foundation Models Enables Efficiency Gains](https://arxiv.org/abs/2610.20750) — *arXiv cs.RO (Robotics)*
-- [Multi-Dimensional Featurizers Yield Fine-Grained Steering and Data Shaping in Robot Foundation Models](https://arxiv.org/abs/2610.20767) — *arXiv cs.RO (Robotics)*
-- [Navigation by Skylight Polarization via Rayleigh Model Optimization on a Road Vehicle](https://arxiv.org/abs/2610.20797) — *arXiv cs.RO (Robotics)*
+- [Video Friday: When Two Robots Become One](https://spectrum.ieee.org/video-friday-reconfigurable-robots) — *IEEE Spectrum · Robotics*
+- [Why opportunity charging is winning as robot fleets scale](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/) — *The Robot Report*
+- [MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 16 – Chasing the International Space Station](https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/) — *NASA · News Releases*
-- [Isaias Dims the Gulf Coast](https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/) — *NASA · News Releases*
-- [NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission](https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/) — *NASA · News Releases*
+- [APOD: 2026 October 17 – 3D 67P](https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/) — *NASA · News Releases*
+- [NASA Names Stephen Cash Marshall Space Flight Center Director](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/) — *NASA · News Releases*
+- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [He Wants AI Benchmarking To Be a Science, Not a Dark Art](https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/) — *Quanta Magazine · Computer Science*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation](https://arxiv.org/abs/2610.21601) — *Hugging Face Daily Papers*
-- [Self-Evolving Agent Harness](https://arxiv.org/abs/2610.18813) — *Hugging Face Daily Papers*
-- [Speculative Forcing for Efficient Autoregressive Video Generation](https://arxiv.org/abs/2610.22347) — *Hugging Face Daily Papers*
+- [FDE-Gym: The Last Mile of AI Delivery](https://arxiv.org/abs/2610.22350) — *Hugging Face Daily Papers*
+- [Behavioral Compositionality of Sparse Autoencoder Representations](https://arxiv.org/abs/2610.21261) — *Hugging Face Daily Papers*
+- [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://arxiv.org/abs/2610.20939) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md) · [2026-10-07](digests/2026/2026-10-07.md)
+**Archivo reciente · Recent archive:** [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md)
 
 <!-- RADAR:END -->
 
