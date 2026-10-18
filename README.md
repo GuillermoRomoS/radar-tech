@@ -21,27 +21,21 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-17](digests/2026/2026-10-17.md)** — 16 elementos/items
+**Última edición · Latest issue: [2026-10-18](digests/2026/2026-10-18.md)** — 9 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Video Friday: When Two Robots Become One](https://spectrum.ieee.org/video-friday-reconfigurable-robots) — *IEEE Spectrum · Robotics*
-- [Why opportunity charging is winning as robot fleets scale](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/) — *The Robot Report*
-- [MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/) — *The Robot Report*
+- [ADI explains the race to make AI physical](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/) — *The Robot Report*
+- [The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies](https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 17 – 3D 67P](https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/) — *NASA · News Releases*
-- [NASA Names Stephen Cash Marshall Space Flight Center Director](https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/) — *NASA · News Releases*
-- [Artemis II Heat Shield After Splashdown](https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [He Wants AI Benchmarking To Be a Science, Not a Dark Art](https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/) — *Quanta Magazine · Computer Science*
+- [APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [FDE-Gym: The Last Mile of AI Delivery](https://arxiv.org/abs/2610.22350) — *Hugging Face Daily Papers*
-- [Behavioral Compositionality of Sparse Autoencoder Representations](https://arxiv.org/abs/2610.21261) — *Hugging Face Daily Papers*
-- [MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments](https://arxiv.org/abs/2610.20939) — *Hugging Face Daily Papers*
+- [Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL](https://arxiv.org/abs/2610.21439) — *Hugging Face Daily Papers*
+- [WorldCast: Exploring Intelligent Visual Generation in World State Prediction](https://arxiv.org/abs/2610.20731) — *Hugging Face Daily Papers*
+- [Data World: Scaling Data Environments from Scratch](https://arxiv.org/abs/2610.21656) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md) · [2026-10-08](digests/2026/2026-10-08.md)
+**Archivo reciente · Recent archive:** [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md)
 
 <!-- RADAR:END -->
 
