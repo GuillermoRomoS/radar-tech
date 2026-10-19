@@ -21,21 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-18](digests/2026/2026-10-18.md)** — 9 elementos/items
+**Última edición · Latest issue: [2026-10-19](digests/2026/2026-10-19.md)** — 20 elementos/items
 
 **🤖 Robótica · Robotics**
-- [ADI explains the race to make AI physical](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/) — *The Robot Report*
-- [The rise of the machines is canceled: Why humanoids with AI are helpers, not enemies](https://www.therobotreport.com/rise-machines-canceled-why-humanoids-ai-are-helpers-not-enemies/) — *The Robot Report*
+- [DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving](https://arxiv.org/abs/2610.22450) — *arXiv cs.RO (Robotics)*
+- [Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses](https://arxiv.org/abs/2610.22461) — *arXiv cs.RO (Robotics)*
+- [Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars](https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/) — *NASA · News Releases*
+- [APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/) — *NASA · News Releases*
+- [Autumn Paints Poland’s Bieszczady Mountains](https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/) — *NASA · News Releases*
+- [Hera Mission Prepares for Follow-Up Asteroid Imaging](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous) — *IEEE Spectrum · Aerospace*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL](https://arxiv.org/abs/2610.21439) — *Hugging Face Daily Papers*
-- [WorldCast: Exploring Intelligent Visual Generation in World State Prediction](https://arxiv.org/abs/2610.20731) — *Hugging Face Daily Papers*
-- [Data World: Scaling Data Environments from Scratch](https://arxiv.org/abs/2610.21656) — *Hugging Face Daily Papers*
+- [BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business](https://arxiv.org/abs/2610.20424) — *Hugging Face Daily Papers*
+- [Learning to Think and Explore in 3D World](https://arxiv.org/abs/2610.21783) — *Hugging Face Daily Papers*
+- [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md) · [2026-10-09](digests/2026/2026-10-09.md)
+**Archivo reciente · Recent archive:** [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md)
 
 <!-- RADAR:END -->
 
