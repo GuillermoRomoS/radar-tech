@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-19](digests/2026/2026-10-19.md)** — 20 elementos/items
+**Última edición · Latest issue: [2026-10-20](digests/2026/2026-10-20.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [DriveWorld3D Evidence Constrained 3D World Modeling and Generative Simulation for Real-World Autonomous Driving](https://arxiv.org/abs/2610.22450) — *arXiv cs.RO (Robotics)*
-- [Mothership: A Two Tier Autonomous Refuse Collection System for Pedestrian Campuses](https://arxiv.org/abs/2610.22461) — *arXiv cs.RO (Robotics)*
-- [Has GPT-6-Astra Achieved Embodied Intelligence?](https://arxiv.org/abs/2610.22471) — *arXiv cs.RO (Robotics)*
+- [DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.23872) — *arXiv cs.RO (Robotics)*
+- [Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs](https://arxiv.org/abs/2610.23873) — *arXiv cs.RO (Robotics)*
+- [Adaptive Question Generation for Ambiguous Robot Instructions Based on Information Gain and Human Cognitive Characteristics](https://arxiv.org/abs/2610.23874) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source](https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/) — *NASA · News Releases*
-- [Autumn Paints Poland’s Bieszczady Mountains](https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/) — *NASA · News Releases*
-- [Hera Mission Prepares for Follow-Up Asteroid Imaging](https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous) — *IEEE Spectrum · Aerospace*
+- [APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/) — *NASA · News Releases*
+- [The Human Fingerprint on Earth’s Water Cycle](https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/) — *NASA · News Releases*
+- [Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By](https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business](https://arxiv.org/abs/2610.20424) — *Hugging Face Daily Papers*
-- [Learning to Think and Explore in 3D World](https://arxiv.org/abs/2610.21783) — *Hugging Face Daily Papers*
-- [Into the Unknown: Benchmarking AI agents on open scientific research problems](https://arxiv.org/abs/2610.19159) — *Hugging Face Daily Papers*
+- [MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825) — *Hugging Face Daily Papers*
+- [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://arxiv.org/abs/2610.25736) — *Hugging Face Daily Papers*
+- [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://arxiv.org/abs/2610.26860) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md) · [2026-10-10](digests/2026/2026-10-10.md)
+**Archivo reciente · Recent archive:** [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md)
 
 <!-- RADAR:END -->
 
