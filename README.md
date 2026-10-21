@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-20](digests/2026/2026-10-20.md)** — 27 elementos/items
+**Última edición · Latest issue: [2026-10-21](digests/2026/2026-10-21.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [DUET: Decoupled Upper- and Lower-Body Execution for Task-Agnostic Humanoid Loco-Manipulation](https://arxiv.org/abs/2610.23872) — *arXiv cs.RO (Robotics)*
-- [Context-Aware RGB-Thermal-Radar Obstacle Perception for Resource-Constrained ASVs](https://arxiv.org/abs/2610.23873) — *arXiv cs.RO (Robotics)*
-- [Adaptive Question Generation for Ambiguous Robot Instructions Based on Information Gain and Human Cognitive Characteristics](https://arxiv.org/abs/2610.23874) — *arXiv cs.RO (Robotics)*
+- [DexGraspFlow: Topology-Aware SE(3) Flow Matching for Cross-Embodiment Dexterous Grasp Generation](https://arxiv.org/abs/2610.26962) — *arXiv cs.RO (Robotics)*
+- [Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO](https://arxiv.org/abs/2610.27003) — *arXiv cs.RO (Robotics)*
+- [Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning](https://arxiv.org/abs/2610.27039) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan](https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/) — *NASA · News Releases*
-- [The Human Fingerprint on Earth’s Water Cycle](https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/) — *NASA · News Releases*
-- [Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By](https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/) — *NASA · News Releases*
+- [APOD: 2026 October 21 – New Ghosts Revealed in Cassiopeia](https://science.nasa.gov/image-article/apod-2026-october-21-new-ghosts-revealed-in-cassiopeia/) — *NASA · News Releases*
+- [Extratropical Cyclone Whips Past Iceland](https://science.nasa.gov/earth/earth-observatory/extratropical-cyclone-whips-past-iceland/) — *NASA · News Releases*
+- [NASA’s SR-1 Freedom Advances with Progress on Nuclear Power Module](https://www.nasa.gov/centers-and-facilities/glenn/sr-1-freedom-advances-with-progress-on-nuclear-power-module/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [MemT-1.0: Towards Memory-Native Evolution](https://arxiv.org/abs/2610.26825) — *Hugging Face Daily Papers*
-- [Learning from Fleet Experience: A Collective Learning Paradigm for Robots](https://arxiv.org/abs/2610.25736) — *Hugging Face Daily Papers*
-- [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](https://arxiv.org/abs/2610.26860) — *Hugging Face Daily Papers*
+- [Focused Omni-Modal GUI Agents](https://arxiv.org/abs/2610.26203) — *Hugging Face Daily Papers*
+- [PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking](https://arxiv.org/abs/2610.27628) — *Hugging Face Daily Papers*
+- [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://arxiv.org/abs/2610.27999) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md) · [2026-10-11](digests/2026/2026-10-11.md)
+**Archivo reciente · Recent archive:** [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md) · [2026-10-12](digests/2026/2026-10-12.md)
 
 <!-- RADAR:END -->
 
