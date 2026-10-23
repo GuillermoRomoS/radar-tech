@@ -21,24 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-22](digests/2026/2026-10-22.md)** — 28 elementos/items
+**Última edición · Latest issue: [2026-10-23](digests/2026/2026-10-23.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Real-Time Ground Normal Vector Estimation for Spherical Mobile 3D Mapping using LiDAR-Inertial Odometry](https://arxiv.org/abs/2610.28701) — *arXiv cs.RO (Robotics)*
-- [Warping the Workspace: Expanding Visual Access with Adjustable Reach Mapping for Humanoid Teleoperation](https://arxiv.org/abs/2610.28712) — *arXiv cs.RO (Robotics)*
-- [Human-Robot Interaction via Meta-Learning Based Mode Recognition and Adaptive Control](https://arxiv.org/abs/2610.28761) — *arXiv cs.RO (Robotics)*
+- [Alpha: Systematic Fault Injection and Robustness Evaluation for LLM-Driven Embodied Manipulation](https://arxiv.org/abs/2610.30197) — *arXiv cs.RO (Robotics)*
+- [TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319) — *arXiv cs.RO (Robotics)*
+- [Self-Distilling Future Video Representations for World Action Models](https://arxiv.org/abs/2610.30320) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 22 – The First Green Star, WD J1330+6435](https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/) — *NASA · News Releases*
-- [Fires Char New Guinea](https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/) — *NASA · News Releases*
-- [Faster to Science: A Letter to the Science Community](https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/) — *NASA · News Releases*
+- [APOD: 2026 October 23 – Andromeda in Southern Spring](https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/) — *NASA · News Releases*
+- [El Niño Then and Now](https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/) — *NASA · News Releases*
+- [NASA Invites Media to 2026 von Braun Space Exploration Symposium](https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [Why Engineers Should Brave Capitol Hill](https://spectrum.ieee.org/engineers-lobbying-congress) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Cache Engineering for Agents](https://arxiv.org/abs/2610.28577) — *Hugging Face Daily Papers*
-- [SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?](https://arxiv.org/abs/2610.26659) — *Hugging Face Daily Papers*
-- [Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation](https://arxiv.org/abs/2610.29989) — *Hugging Face Daily Papers*
+- [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://arxiv.org/abs/2610.30926) — *Hugging Face Daily Papers*
+- [Deep Search in Real-World Web Environments](https://arxiv.org/abs/2610.30181) — *Hugging Face Daily Papers*
+- [Toward Recursive Self-Improvement in Physical AI](https://arxiv.org/abs/2610.29677) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md) · [2026-10-13](digests/2026/2026-10-13.md)
+**Archivo reciente · Recent archive:** [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md)
 
 <!-- RADAR:END -->
 
