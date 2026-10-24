@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-23](digests/2026/2026-10-23.md)** — 27 elementos/items
+**Última edición · Latest issue: [2026-10-24](digests/2026/2026-10-24.md)** — 15 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Alpha: Systematic Fault Injection and Robustness Evaluation for LLM-Driven Embodied Manipulation](https://arxiv.org/abs/2610.30197) — *arXiv cs.RO (Robotics)*
-- [TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319) — *arXiv cs.RO (Robotics)*
-- [Self-Distilling Future Video Representations for World Action Models](https://arxiv.org/abs/2610.30320) — *arXiv cs.RO (Robotics)*
+- [Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself](https://spectrum.ieee.org/video-friday-rubiks-cube-robot) — *IEEE Spectrum · Robotics*
+- [Webinar to discuss how the FCC robotics ruling affects automation buyers](https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/) — *The Robot Report*
+- [Generative Bionics to launch Physical AI Data Factory in Italy](https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 23 – Andromeda in Southern Spring](https://science.nasa.gov/image-article/apod-2026-october-23-andromeda-in-southern-spring/) — *NASA · News Releases*
-- [El Niño Then and Now](https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/) — *NASA · News Releases*
-- [NASA Invites Media to 2026 von Braun Space Exploration Symposium](https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [Why Engineers Should Brave Capitol Hill](https://spectrum.ieee.org/engineers-lobbying-congress) — *IEEE Spectrum · Computing*
+- [APOD: 2026 October 24 – Rosetta’s Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/) — *NASA · News Releases*
+- [NASA, Partners Accelerate Lander Development for 2028 Moon Missions](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/) — *NASA · News Releases*
+- [NASA’s Artemis III Mission to Test Future Moon Lander Operations](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation](https://arxiv.org/abs/2610.30926) — *Hugging Face Daily Papers*
-- [Deep Search in Real-World Web Environments](https://arxiv.org/abs/2610.30181) — *Hugging Face Daily Papers*
-- [Toward Recursive Self-Improvement in Physical AI](https://arxiv.org/abs/2610.29677) — *Hugging Face Daily Papers*
+- [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329) — *Hugging Face Daily Papers*
+- [Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks](https://arxiv.org/abs/2610.28889) — *Hugging Face Daily Papers*
+- [What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models](https://arxiv.org/abs/2610.23987) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md) · [2026-10-14](digests/2026/2026-10-14.md)
+**Archivo reciente · Recent archive:** [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md)
 
 <!-- RADAR:END -->
 
