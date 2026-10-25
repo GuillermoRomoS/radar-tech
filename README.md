@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-24](digests/2026/2026-10-24.md)** — 15 elementos/items
+**Última edición · Latest issue: [2026-10-25](digests/2026/2026-10-25.md)** — 10 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Video Friday: Quadruped Robot Solves Giant Rubik’s Cube by Itself](https://spectrum.ieee.org/video-friday-rubiks-cube-robot) — *IEEE Spectrum · Robotics*
-- [Webinar to discuss how the FCC robotics ruling affects automation buyers](https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/) — *The Robot Report*
-- [Generative Bionics to launch Physical AI Data Factory in Italy](https://www.therobotreport.com/generative-bionics-to-launch-physical-ai-data-factory-in-italy/) — *The Robot Report*
+- [Eka Robotics raises $150M to scale its vision-force-action model for robots](https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 24 – Rosetta’s Selfie](https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/) — *NASA · News Releases*
-- [NASA, Partners Accelerate Lander Development for 2028 Moon Missions](https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/) — *NASA · News Releases*
-- [NASA’s Artemis III Mission to Test Future Moon Lander Operations](https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/) — *NASA · News Releases*
+- [APOD: 2026 October 25 – Dark Matter in a Simulated Universe](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/) — *NASA · News Releases*
+- [NASA, Virginia Launch Power Partnership for Energy Security](https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [What Biometric Technology Does and Doesn’t Add to Voting](https://spectrum.ieee.org/biometric-voting-technology) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [WeVisOne-VL: Unified Visual Perception from Objects to Pixels](https://arxiv.org/abs/2610.31329) — *Hugging Face Daily Papers*
-- [Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks](https://arxiv.org/abs/2610.28889) — *Hugging Face Daily Papers*
-- [What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models](https://arxiv.org/abs/2610.23987) — *Hugging Face Daily Papers*
+- [Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V](https://arxiv.org/abs/2610.28416) — *Hugging Face Daily Papers*
+- [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](https://arxiv.org/abs/2610.31198) — *Hugging Face Daily Papers*
+- [RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing](https://arxiv.org/abs/2610.19705) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md) · [2026-10-15](digests/2026/2026-10-15.md)
+**Archivo reciente · Recent archive:** [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md)
 
 <!-- RADAR:END -->
 
