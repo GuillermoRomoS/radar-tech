@@ -21,24 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-25](digests/2026/2026-10-25.md)** — 10 elementos/items
+**Última edición · Latest issue: [2026-10-26](digests/2026/2026-10-26.md)** — 20 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Eka Robotics raises $150M to scale its vision-force-action model for robots](https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/) — *The Robot Report*
+- [See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762) — *arXiv cs.RO (Robotics)*
+- [FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://arxiv.org/abs/2610.31779) — *arXiv cs.RO (Robotics)*
+- [KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations](https://arxiv.org/abs/2610.31801) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 25 – Dark Matter in a Simulated Universe](https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/) — *NASA · News Releases*
-- [NASA, Virginia Launch Power Partnership for Energy Security](https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/) — *NASA · News Releases*
+- [2026 October 26 – M42: The Great Nebula in Orion](https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/) — *NASA · News Releases*
+- [Hunting Red Leaves with Satellites](https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/) — *NASA · News Releases*
+- [A Study of the 30 May 2026 Meteor Event Employing Data from Raspberry Boom Infrasound Sensors in the Boston Area](https://arxiv.org/abs/2610.31742) — *arXiv astro-ph.IM (Instrumentation)*
 
 **💻 Informática · Computing**
-- [What Biometric Technology Does and Doesn’t Add to Voting](https://spectrum.ieee.org/biometric-voting-technology) — *IEEE Spectrum · Computing*
+- [Poetry for Engineers: Of Code and Shortleaf Pine](https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V](https://arxiv.org/abs/2610.28416) — *Hugging Face Daily Papers*
-- [Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models](https://arxiv.org/abs/2610.31198) — *Hugging Face Daily Papers*
-- [RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing](https://arxiv.org/abs/2610.19705) — *Hugging Face Daily Papers*
+- [Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/abs/2610.31668) — *Hugging Face Daily Papers*
+- [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://arxiv.org/abs/2610.30932) — *Hugging Face Daily Papers*
+- [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://arxiv.org/abs/2610.31162) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md) · [2026-10-16](digests/2026/2026-10-16.md)
+**Archivo reciente · Recent archive:** [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md)
 
 <!-- RADAR:END -->
 
