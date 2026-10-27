@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-26](digests/2026/2026-10-26.md)** — 20 elementos/items
+**Última edición · Latest issue: [2026-10-27](digests/2026/2026-10-27.md)** — 28 elementos/items
 
 **🤖 Robótica · Robotics**
-- [See What I Need, Dream What I Want: A Navigation Foundation Model on a Self-Constructed Representation Space](https://arxiv.org/abs/2610.31762) — *arXiv cs.RO (Robotics)*
-- [FLORA: An Open Model Suite for Scaling Robotics Data Engines](https://arxiv.org/abs/2610.31779) — *arXiv cs.RO (Robotics)*
-- [KiRoSe: Using Kinematic Data for Efficient Segmentation of Robot Demonstrations](https://arxiv.org/abs/2610.31801) — *arXiv cs.RO (Robotics)*
+- [RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion](https://arxiv.org/abs/2610.33172) — *arXiv cs.RO (Robotics)*
+- [Bracketing Shows the Way: Adaptive Multi-Exposure Policy as Input for Robust Visual SLAM](https://arxiv.org/abs/2610.33174) — *arXiv cs.RO (Robotics)*
+- [Interpretable Collision Avoidance and Feasibility Guarantees through an Uncertainty Aware Pipeline](https://arxiv.org/abs/2610.33186) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [2026 October 26 – M42: The Great Nebula in Orion](https://science.nasa.gov/image-article/2026-october-26-m42-the-great-nebula-in-orion/) — *NASA · News Releases*
-- [Hunting Red Leaves with Satellites](https://science.nasa.gov/earth/earth-observatory/hunting-red-leaves-with-satellites/) — *NASA · News Releases*
-- [A Study of the 30 May 2026 Meteor Event Employing Data from Raspberry Boom Infrasound Sensors in the Boston Area](https://arxiv.org/abs/2610.31742) — *arXiv astro-ph.IM (Instrumentation)*
-
-**💻 Informática · Computing**
-- [Poetry for Engineers: Of Code and Shortleaf Pine](https://spectrum.ieee.org/poetry-for-engineers-of-code-and-shortleaf-pine) — *IEEE Spectrum · Computing*
+- [How a Johnson Mentor Shapes the Next Generation of NASA Talent](https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/) — *NASA · News Releases*
+- [APOD: 2026 October 27 – Noctilucent Clouds over Sweden](https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/) — *NASA · News Releases*
+- [A-81 Reaches South Georgia](https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Reading, Writing, Sharing, and Interacting with the World through Video](https://arxiv.org/abs/2610.31668) — *Hugging Face Daily Papers*
-- [UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents](https://arxiv.org/abs/2610.30932) — *Hugging Face Daily Papers*
-- [HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games](https://arxiv.org/abs/2610.31162) — *Hugging Face Daily Papers*
+- [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568) — *Hugging Face Daily Papers*
+- [StreamVibe: Proactive Video Agents for Evolving User Intent](https://arxiv.org/abs/2610.34662) — *Hugging Face Daily Papers*
+- [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://arxiv.org/abs/2610.34467) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md) · [2026-10-17](digests/2026/2026-10-17.md)
+**Archivo reciente · Recent archive:** [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md)
 
 <!-- RADAR:END -->
 
