@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-27](digests/2026/2026-10-27.md)** — 28 elementos/items
+**Última edición · Latest issue: [2026-10-28](digests/2026/2026-10-28.md)** — 28 elementos/items
 
 **🤖 Robótica · Robotics**
-- [RAIWAY: A Large-Wheeled Bipedal Robot with Contact-Informed Blind Locomotion](https://arxiv.org/abs/2610.33172) — *arXiv cs.RO (Robotics)*
-- [Bracketing Shows the Way: Adaptive Multi-Exposure Policy as Input for Robust Visual SLAM](https://arxiv.org/abs/2610.33174) — *arXiv cs.RO (Robotics)*
-- [Interpretable Collision Avoidance and Feasibility Guarantees through an Uncertainty Aware Pipeline](https://arxiv.org/abs/2610.33186) — *arXiv cs.RO (Robotics)*
+- [E0.5: From Reconstructive to Future-Predictive 3D Foundations for Robotic World-Action Modeling](https://arxiv.org/abs/2610.36011) — *arXiv cs.RO (Robotics)*
+- [Rollback: Experience Backtracking in World Models for Policy Improvement](https://arxiv.org/abs/2610.36068) — *arXiv cs.RO (Robotics)*
+- [Closed-Loop Aware Planning via Imitation-Free Speed Scoring for End-to-End Autonomous Driving](https://arxiv.org/abs/2610.36079) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [How a Johnson Mentor Shapes the Next Generation of NASA Talent](https://www.nasa.gov/general/how-a-johnson-mentor-shapes-the-next-generation-of-nasa-talent/) — *NASA · News Releases*
-- [APOD: 2026 October 27 – Noctilucent Clouds over Sweden](https://science.nasa.gov/image-article/apod-2026-october-27-noctilucent-clouds-over-sweden/) — *NASA · News Releases*
-- [A-81 Reaches South Georgia](https://science.nasa.gov/earth/earth-observatory/a-81-reaches-south-georgia/) — *NASA · News Releases*
+- [Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’](https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/) — *NASA · News Releases*
+- [APOD: 2026 October 28 – The Mutual Occultation of Ganymede and Io](https://science.nasa.gov/image-article/apod-2026-october-28-the-mutual-occultation-of-ganymede-and-io/) — *NASA · News Releases*
+- [The Land of the Standing-Up Rocks](https://science.nasa.gov/earth/earth-observatory/the-land-of-the-standing-up-rocks/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents](https://arxiv.org/abs/2610.33568) — *Hugging Face Daily Papers*
-- [StreamVibe: Proactive Video Agents for Evolving User Intent](https://arxiv.org/abs/2610.34662) — *Hugging Face Daily Papers*
-- [DynaFlow: Learning Free-Form Multi-Agent Orchestration](https://arxiv.org/abs/2610.34467) — *Hugging Face Daily Papers*
+- [ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence](https://arxiv.org/abs/2610.34283) — *Hugging Face Daily Papers*
+- [PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations](https://arxiv.org/abs/2610.37381) — *Hugging Face Daily Papers*
+- [The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents](https://arxiv.org/abs/2610.36077) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md) · [2026-10-18](digests/2026/2026-10-18.md)
+**Archivo reciente · Recent archive:** [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md) · [2026-10-19](digests/2026/2026-10-19.md)
 
 <!-- RADAR:END -->
 
