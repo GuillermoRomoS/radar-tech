@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-29](digests/2026/2026-10-29.md)** — 17 elementos/items
+**Última edición · Latest issue: [2026-10-30](digests/2026/2026-10-30.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [North American robot orders climb 24.8% in Q3 of 2026, says A3](https://www.therobotreport.com/north-american-robot-orders-climb-24-8-q3-2026-says-a3/) — *The Robot Report*
-- [What Symbotic’s Walmart growth teaches robotics startups about anchor customers](https://www.therobotreport.com/what-symbotic-growth-with-walmart-teaches-robotics-startups-about-anchor-customers/) — *The Robot Report*
-- [Warp Sciences emerges from stealth, to apply robotics to drug research](https://www.therobotreport.com/warp-sciences-emerges-stealth-apply-robotics-drug-research/) — *The Robot Report*
+- [DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks](https://arxiv.org/abs/2610.37799) — *arXiv cs.RO (Robotics)*
+- [An Empirical Study of Wrist-Target Construction and Joint-Angle Limits in Humanoid Arm Retargeting](https://arxiv.org/abs/2610.37801) — *arXiv cs.RO (Robotics)*
+- [TACOS: Terrain-Aware COntact Supervision for Visual Footstep Planning](https://arxiv.org/abs/2610.37806) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 29 October 2026 – The Horns of Venus](https://science.nasa.gov/image-article/apod-29-october-2026-the-horns-of-venus/) — *NASA · News Releases*
-- [Arnab Strikes India](https://science.nasa.gov/earth/earth-observatory/arnab-strikes-india/) — *NASA · News Releases*
-- [Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy](https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/) — *NASA · News Releases*
+- [November’s Night Sky Notes: Light-Day Away](https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/) — *NASA · News Releases*
+- [APOD: 2026 October 30 – Haunting the Cepheus Flare](https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/) — *NASA · News Releases*
+- [Vega Island Frozen in Fright](https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Multiscale Policy Optimization for Long-Horizon LLM Agents](https://arxiv.org/abs/2610.35013) — *Hugging Face Daily Papers*
-- [DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models](https://arxiv.org/abs/2610.35201) — *Hugging Face Daily Papers*
-- [VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation](https://arxiv.org/abs/2610.35864) — *Hugging Face Daily Papers*
+- [Intrinsic Distribution Matching](https://arxiv.org/abs/2610.39633) — *Hugging Face Daily Papers*
+- [Your Benchmark Is an Empirical Measure Over Difficulty](https://arxiv.org/abs/2610.29927) — *Hugging Face Daily Papers*
+- [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://arxiv.org/abs/2610.36671) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md) · [2026-10-20](digests/2026/2026-10-20.md)
+**Archivo reciente · Recent archive:** [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md)
 
 <!-- RADAR:END -->
 
