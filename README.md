@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-30](digests/2026/2026-10-30.md)** — 27 elementos/items
+**Última edición · Latest issue: [2026-10-31](digests/2026/2026-10-31.md)** — 18 elementos/items
 
 **🤖 Robótica · Robotics**
-- [DexSuite: An All-in-One Framework for Dexterous Manipulation Across Arms, Hands, and Tasks](https://arxiv.org/abs/2610.37799) — *arXiv cs.RO (Robotics)*
-- [An Empirical Study of Wrist-Target Construction and Joint-Angle Limits in Humanoid Arm Retargeting](https://arxiv.org/abs/2610.37801) — *arXiv cs.RO (Robotics)*
-- [TACOS: Terrain-Aware COntact Supervision for Visual Footstep Planning](https://arxiv.org/abs/2610.37806) — *arXiv cs.RO (Robotics)*
+- [Video Friday: Spot Plays to Show Its Whole-Body Manipulation](https://spectrum.ieee.org/video-friday-whole-body-manipulation) — *IEEE Spectrum · Robotics*
+- [Percepto launches Axion AI platform to unify inspection data analysis](https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/) — *The Robot Report*
+- [Humanoid developer Agility now expects to raise $465M in SPAC deal](https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [November’s Night Sky Notes: Light-Day Away](https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/) — *NASA · News Releases*
-- [APOD: 2026 October 30 – Haunting the Cepheus Flare](https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/) — *NASA · News Releases*
-- [Vega Island Frozen in Fright](https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/) — *NASA · News Releases*
+- [APOD: 2026 October 31 – Night on a Spooky Planet](https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/) — *NASA · News Releases*
+- [NASA Releases MAX POWER Key Events for Media, Participants](https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/) — *NASA · News Releases*
+- [NASA’s James Webb Space Telescope Captures Eerie Cat’s Head](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Intrinsic Distribution Matching](https://arxiv.org/abs/2610.39633) — *Hugging Face Daily Papers*
-- [Your Benchmark Is an Empirical Measure Over Difficulty](https://arxiv.org/abs/2610.29927) — *Hugging Face Daily Papers*
-- [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://arxiv.org/abs/2610.36671) — *Hugging Face Daily Papers*
+- [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://arxiv.org/abs/2610.39301) — *Hugging Face Daily Papers*
+- [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) — *Hugging Face Daily Papers*
+- [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/abs/2610.40647) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md) · [2026-10-21](digests/2026/2026-10-21.md)
+**Archivo reciente · Recent archive:** [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md)
 
 <!-- RADAR:END -->
 
