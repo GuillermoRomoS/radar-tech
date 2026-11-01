@@ -21,24 +21,20 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-10-31](digests/2026/2026-10-31.md)** — 18 elementos/items
+**Última edición · Latest issue: [2026-11-01](digests/2026/2026-11-01.md)** — 8 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Video Friday: Spot Plays to Show Its Whole-Body Manipulation](https://spectrum.ieee.org/video-friday-whole-body-manipulation) — *IEEE Spectrum · Robotics*
-- [Percepto launches Axion AI platform to unify inspection data analysis](https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/) — *The Robot Report*
-- [Humanoid developer Agility now expects to raise $465M in SPAC deal](https://www.therobotreport.com/humanoid-developer-agility-now-expects-raise-465m-spac-deal/) — *The Robot Report*
+- [Unusual robotic animals can prove their utility](https://www.therobotreport.com/unusual-robotic-animals-can-prove-their-utility/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 October 31 – Night on a Spooky Planet](https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/) — *NASA · News Releases*
-- [NASA Releases MAX POWER Key Events for Media, Participants](https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/) — *NASA · News Releases*
-- [NASA’s James Webb Space Telescope Captures Eerie Cat’s Head](https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/) — *NASA · News Releases*
+- [APOD: 2026 November 1 – Colors of the Moon](https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities](https://arxiv.org/abs/2610.39301) — *Hugging Face Daily Papers*
-- [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) — *Hugging Face Daily Papers*
-- [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers](https://arxiv.org/abs/2610.40647) — *Hugging Face Daily Papers*
+- [HairDeck: Animation-Ready Stylized Hair Cards from a Single Image](https://arxiv.org/abs/2610.40599) — *Hugging Face Daily Papers*
+- [Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models](https://arxiv.org/abs/2610.35138) — *Hugging Face Daily Papers*
+- [WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video](https://arxiv.org/abs/2610.38352) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md) · [2026-10-22](digests/2026/2026-10-22.md)
+**Archivo reciente · Recent archive:** [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md) · [2026-10-23](digests/2026/2026-10-23.md)
 
 <!-- RADAR:END -->
 
