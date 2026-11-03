@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-02](digests/2026/2026-11-02.md)** — 24 elementos/items
+**Última edición · Latest issue: [2026-11-03](digests/2026/2026-11-03.md)** — 26 elementos/items
 
 **🤖 Robótica · Robotics**
-- [WorldBridge: Bridging Video and Action for Task Generalization in World Action Models](https://arxiv.org/abs/2610.40748) — *arXiv cs.RO (Robotics)*
-- [CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents](https://arxiv.org/abs/2610.40799) — *arXiv cs.RO (Robotics)*
-- [From Teleoperation to Long-Horizon Dexterity: Evaluating Visuomotor Skills and Offline Proxies for Dexterous Manipulation](https://arxiv.org/abs/2610.40828) — *arXiv cs.RO (Robotics)*
+- [From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models](https://arxiv.org/abs/2611.00155) — *arXiv cs.RO (Robotics)*
+- [Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots](https://arxiv.org/abs/2611.00158) — *arXiv cs.RO (Robotics)*
+- [Learning to Live: A Step Toward Lifelong Embodied Intelligence](https://arxiv.org/abs/2611.00180) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 2 – A Long Cloud on Mars](https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/) — *NASA · News Releases*
-- [Pennsylvania’s Grand Canyon](https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/) — *NASA · News Releases*
-- [CubeSat achieves challenging laser link to ground](https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground) — *ESA · Top News*
-
-**💻 Informática · Computing**
-- [The PHP2Shell Vulnerability Heralds Cybersecurity Hell](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) — *IEEE Spectrum · Computing*
+- [APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor](https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/) — *NASA · News Releases*
+- [The Pacific’s Busy Storm Season](https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/) — *NASA · News Releases*
+- [Happy 65 Years: NASA’s Johnson Space Center Then and Now](https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://arxiv.org/abs/2610.22740) — *Hugging Face Daily Papers*
-- [Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?](https://arxiv.org/abs/2610.39497) — *Hugging Face Daily Papers*
-- [FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation](https://arxiv.org/abs/2610.36545) — *Hugging Face Daily Papers*
+- [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://arxiv.org/abs/2611.00859) — *Hugging Face Daily Papers*
+- [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178) — *Hugging Face Daily Papers*
+- [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://arxiv.org/abs/2610.40191) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md) · [2026-10-24](digests/2026/2026-10-24.md)
+**Archivo reciente · Recent archive:** [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md)
 
 <!-- RADAR:END -->
 
