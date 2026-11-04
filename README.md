@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-03](digests/2026/2026-11-03.md)** — 26 elementos/items
+**Última edición · Latest issue: [2026-11-04](digests/2026/2026-11-04.md)** — 26 elementos/items
 
 **🤖 Robótica · Robotics**
-- [From Concepts to Actual Causes: Toward Closing the Concept-Malfunction Gap in Robot Foundation Models](https://arxiv.org/abs/2611.00155) — *arXiv cs.RO (Robotics)*
-- [Scaling Trusted Autonomy: Towards Generally Capable Verifiable Robots](https://arxiv.org/abs/2611.00158) — *arXiv cs.RO (Robotics)*
-- [Learning to Live: A Step Toward Lifelong Embodied Intelligence](https://arxiv.org/abs/2611.00180) — *arXiv cs.RO (Robotics)*
+- [Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place](https://arxiv.org/abs/2611.03779) — *arXiv cs.RO (Robotics)*
+- [AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data](https://arxiv.org/abs/2611.03815) — *arXiv cs.RO (Robotics)*
+- [A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts](https://arxiv.org/abs/2611.03825) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor](https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/) — *NASA · News Releases*
-- [The Pacific’s Busy Storm Season](https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/) — *NASA · News Releases*
-- [Happy 65 Years: NASA’s Johnson Space Center Then and Now](https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/) — *NASA · News Releases*
+- [APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/) — *NASA · News Releases*
+- [Before the Dawn in America’s Heartland](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/) — *NASA · News Releases*
+- [Astronaut and Earth](https://www.nasa.gov/image-article/astronaut-and-earth/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Wave Forcing: Towards Speed-of-Light Streaming Video Generation](https://arxiv.org/abs/2611.00859) — *Hugging Face Daily Papers*
-- [CoworkOS:Scaling Agent Coworkers for Real-world Automation](https://arxiv.org/abs/2611.03178) — *Hugging Face Daily Papers*
-- [Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement](https://arxiv.org/abs/2610.40191) — *Hugging Face Daily Papers*
+- [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://arxiv.org/abs/2611.05275) — *Hugging Face Daily Papers*
+- [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814) — *Hugging Face Daily Papers*
+- [Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://arxiv.org/abs/2611.00617) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md) · [2026-10-25](digests/2026/2026-10-25.md)
+**Archivo reciente · Recent archive:** [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md)
 
 <!-- RADAR:END -->
 
