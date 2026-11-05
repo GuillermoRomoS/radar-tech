@@ -21,24 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-04](digests/2026/2026-11-04.md)** — 26 elementos/items
+**Última edición · Latest issue: [2026-11-05](digests/2026/2026-11-05.md)** — 29 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Robot-Matched Soft Fingers for UMI Data Collection: Lessons from 100 Hours of Pick and Place](https://arxiv.org/abs/2611.03779) — *arXiv cs.RO (Robotics)*
-- [AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data](https://arxiv.org/abs/2611.03815) — *arXiv cs.RO (Robotics)*
-- [A Tutorial on Shape Servoing of Deformable Objects-Part II: Advanced Concepts](https://arxiv.org/abs/2611.03825) — *arXiv cs.RO (Robotics)*
+- [Jev with Foresight: Safe Language-Guided Autonomous Driving via a Language World Model](https://arxiv.org/abs/2611.05448) — *arXiv cs.RO (Robotics)*
+- [Ctrl-F: Force as an Interface for Humanoid Loco-Manipulation](https://arxiv.org/abs/2611.05507) — *arXiv cs.RO (Robotics)*
+- [MESA: An Evaluation Framework for Compositional, Semantic, and Spatial Generalization in Robotics](https://arxiv.org/abs/2611.05567) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 4 – The Not-So-Hidden Galaxy, IC 342](https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/) — *NASA · News Releases*
-- [Before the Dawn in America’s Heartland](https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/) — *NASA · News Releases*
-- [Astronaut and Earth](https://www.nasa.gov/image-article/astronaut-and-earth/) — *NASA · News Releases*
+- [APOD: 2026 November 5 – Enceladus in Silhouette](https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/) — *NASA · News Releases*
+- [Cyprus: Island of Snakes, Cats, and Ophiolites](https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/) — *NASA · News Releases*
+- [NASA Announces X-70 Experimental Aircraft to Advance Flight Research](https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [New Research Tests Whether AI Models Know Their Own Thoughts](https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/) — *Quanta Magazine · Computer Science*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems](https://arxiv.org/abs/2611.05275) — *Hugging Face Daily Papers*
-- [Think Less, Locally: Local Preference Learning for Reasoning Compression](https://arxiv.org/abs/2611.04814) — *Hugging Face Daily Papers*
-- [Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy](https://arxiv.org/abs/2611.00617) — *Hugging Face Daily Papers*
+- [Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](https://arxiv.org/abs/2611.06728) — *Hugging Face Daily Papers*
+- [From Pixels to Actions - Towards Native Vision-Language-Action Policies](https://arxiv.org/abs/2611.06918) — *Hugging Face Daily Papers*
+- [Factorized MLLM Embeddings for Composed Image Retrieval](https://arxiv.org/abs/2611.05193) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md) · [2026-10-26](digests/2026/2026-10-26.md)
+**Archivo reciente · Recent archive:** [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md) · [2026-10-28](digests/2026/2026-10-28.md) · [2026-10-27](digests/2026/2026-10-27.md)
 
 <!-- RADAR:END -->
 
