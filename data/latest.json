@@ -1,160 +1,118 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "items": [
     {
-      "id": "d3518bca05b97d46",
-      "title": "Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up",
-      "link": "https://spectrum.ieee.org/video-friday-home-cable-robot",
-      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. CoRL 2026 : 9–12 November 2026, AUSTIN, TEXAS Humanoids 2026 : 6–9…",
-      "date": "2026-11-06T17:00:03+00:00",
-      "source": "IEEE Spectrum · Robotics",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "1022fc311283f602",
-      "title": "How Point One turned GPS accuracy into a robotics platform",
-      "link": "https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/",
-      "excerpt": "Aaron Nathan explains how precise location technology like GPS is enabling robots to navigate, coordinate, and scale across real environments. The post How Point One turned GPS accuracy into a robotics platform appeared first on The Robot Report .",
-      "date": "2026-11-06T21:47:35+00:00",
+      "id": "caccdd9152cf273f",
+      "title": "Robot integration brings high-precision production to midmarket manufacturers",
+      "link": "https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/",
+      "excerpt": "Properly integrated industrial and collaborative robots can help midmarket manufacturers, according to a columnist. The post Robot integration brings high-precision production to midmarket manufacturers appeared first on The Robot Report .",
+      "date": "2026-11-07T13:32:59+00:00",
       "source": "The Robot Report",
       "category": "robotica",
       "kind": "news",
       "extra": ""
     },
     {
-      "id": "1e81754f53eb8114",
-      "title": "Boston Dynamics built Stretch Gen 2 for reliable, consistent performance",
-      "link": "https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/",
-      "excerpt": "Brian Donnelly, the VP and GM of logistics robotics at Boston Dynamics, said the new version of Stretch has been in the works for two and a half years. The post Boston Dynamics built Stretch Gen 2 for reliable, consistent performance appeared first on The Robot Report .",
-      "date": "2026-11-06T21:34:44+00:00",
-      "source": "The Robot Report",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "b24f47116c2aa08f",
-      "title": "Industry experts discuss China blocking SoftBank acquisition of ABB Robotics",
-      "link": "https://www.therobotreport.com/industry-experts-discuss-china-blocking-softbank-acquisition-abb-robotics/",
-      "excerpt": "China's prohibition of SoftBank's purchase of ABB Robotics reflects wider concerns about data and AI, say experts. The post Industry experts discuss China blocking SoftBank acquisition of ABB Robotics appeared first on The Robot Report .",
-      "date": "2026-11-06T20:41:17+00:00",
-      "source": "The Robot Report",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "06407556cd7ce65e",
-      "title": "APOD: 2026 November 7 – De Gerlache-Kocher Massif",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
-      "excerpt": "APOD Science APOD APOD: 2026 November 7 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
-      "date": "2026-11-07T05:05:00+00:00",
+      "id": "6662e17f843abbce",
+      "title": "APOD: 2026 November 8 – Major Fireball Meteor",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/",
+      "excerpt": "APOD Science APOD APOD: 2026 November 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional…",
+      "date": "2026-11-08T05:05:00+00:00",
       "source": "NASA · News Releases",
       "category": "espacio",
       "kind": "official",
       "extra": ""
     },
     {
-      "id": "9ee29b170407542c",
-      "title": "M30’s Sparkling Stars",
-      "link": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
-      "excerpt": "This NASA/ESA Hubble Space Telescope image released Nov. 5, 2026, provides a lesson in galactic history. The sparkling collection of stars is named Messier 30 (M30) after the French astronomer, Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of…",
-      "date": "2026-11-06T16:23:41+00:00",
+      "id": "8a4cc8d2953263e2",
+      "title": "NASA Awards Moon Base Transportation, Technology, Science Projects",
+      "link": "https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/",
+      "excerpt": "NASA announced a suite of awards and mission updates on Saturday to expand the agency’s Moon Base exploration, science, and infrastructure capabilities. The investments will advance commercial robotic deliveries, a nuclear-powered rover named PROMISE, launch and orbital transfer services, and surface infrastructure as…",
+      "date": "2026-11-07T22:47:03+00:00",
       "source": "NASA · News Releases",
       "category": "espacio",
       "kind": "official",
       "extra": ""
     },
     {
-      "id": "7a3513031f5639c5",
-      "title": "Supercomputing Tech Demo Schedule",
-      "link": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
-      "excerpt": "Supercomputing 2026 Join NASA in the Exhibit Hall (Booth #4038) for presentations by NASA experts. Full Tech Demo schedule below. TUESDAY, NOVEMBER 17 10:00 AMType-safe Templates in Fortran 2028Tom Clune10:30 AMType-safe Templates in Fortran 2028Tom Clune11:00 AM Type-safe Templates in Fortran 2028Tom Clune1:00PM…",
-      "date": "2026-11-06T16:03:52+00:00",
+      "id": "aff8c97b0bc1ee94",
+      "title": "NASA Seeks Next Generation of Explorers to Join Astronaut Corps",
+      "link": "https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/",
+      "excerpt": "NASA is looking for the explorers who will help write the next chapter of human spaceflight. Applications are now open for the agency’s next class of astronauts, who will join NASA as America returns to the Moon, builds the Moon Base, and lays the groundwork for the first crewed missions to Mars. The next generation…",
+      "date": "2026-11-07T18:11:57+00:00",
       "source": "NASA · News Releases",
       "category": "espacio",
       "kind": "official",
       "extra": ""
     },
     {
-      "id": "149e1ea67ea24d09",
-      "title": "How Do You Land on a Moon With Almost No Gravity?",
-      "link": "https://spectrum.ieee.org/mmx-mission-to-phobos",
-      "excerpt": "Last August, looking up from the edge of an ancient river delta on Mars, the Perseverance rover ’s electronic eye spied an oblong shadow crossing the distant, glowing Sun. Phobos , the Martian moon named for the Greek god of fear and panic, was transiting the solar disk. Too small to darken the pale, dust-tinged sky…",
-      "date": "2026-11-06T15:00:02+00:00",
-      "source": "IEEE Spectrum · Aerospace",
-      "category": "espacio",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "fec680450254c82a",
-      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
-      "link": "https://arxiv.org/abs/2611.08373",
-      "excerpt": "Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during task-specific…",
-      "date": "2026-11-04T19:00:00+00:00",
+      "id": "ba30d0a56b147d1f",
+      "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "link": "https://arxiv.org/abs/2611.05376",
+      "excerpt": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on a person's behalf. Yet people still forget what they once knew, miss what they are not looking at, fail to find the…",
+      "date": "2026-11-03T13:59:52+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 76 · [HF](https://huggingface.co/papers/2611.08373)"
+      "extra": "▲ 87 · [HF](https://huggingface.co/papers/2611.05376)"
     },
     {
-      "id": "a734472336686289",
-      "title": "TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing",
-      "link": "https://arxiv.org/abs/2611.06741",
-      "excerpt": "Strong single-turn editing performance does not guarantee reliable multi-turn interaction: as edited outputs are repeatedly reused, small unintended changes can accumulate into severe visual drift. This long-term drift is often mitigated through training on multi-turn data or cross-turn rollouts, potentially altering…",
+      "id": "3da222861ed7e560",
+      "title": "Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models",
+      "link": "https://arxiv.org/abs/2611.06817",
+      "excerpt": "Egocentric human video offers a scalable source of manipulation priors for robot learning, yet translating raw data scale into generalizable robot policies demands rigorous data curation and training recipes. We introduce Open-HumanScale, the first fully open recipe for scaling egocentric pretraining to 50,000 hours…",
       "date": "2026-11-03T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 37 · [HF](https://huggingface.co/papers/2611.06741)"
+      "extra": "▲ 31 · [HF](https://huggingface.co/papers/2611.06817)"
     },
     {
-      "id": "f88a3ca464336473",
-      "title": "EvoMemState: Evolving Memory State for Personal Agents",
-      "link": "https://arxiv.org/abs/2611.03743",
-      "excerpt": "Long-term memory enables large language model (LLM) agents to provide continuous personalized assistance by retaining user information across interactions. Existing systems support this process through fact extraction, organization, updating, and retrieval, but largely maintain memories as independent facts. This…",
-      "date": "2026-11-01T19:00:00+00:00",
+      "id": "ab877e63f7834230",
+      "title": "Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents",
+      "link": "https://arxiv.org/abs/2610.41432",
+      "excerpt": "Computer-use agents increasingly tackle tasks ranging from everyday desktop activities to long-horizon professional workflows. Yet interfaces centered on screenshots and mouse-and-keyboard actions can impose a human-interaction prior, requiring repeated screen interpretation while leaving the computer's semantic and…",
+      "date": "2026-10-30T04:38:29+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 23 · [HF](https://huggingface.co/papers/2611.03743)"
+      "extra": "▲ 17 · [HF](https://huggingface.co/papers/2610.41432)"
     },
     {
-      "id": "f92b8c3ba009d589",
-      "title": "Towards Foundation Decision Models: Drex",
-      "link": "https://arxiv.org/abs/2611.07854",
-      "excerpt": "Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tasks. In production, however, they give inconsistent answers, require parsing of outputs, and add cost and latency…",
+      "id": "43a51041285d16de",
+      "title": "TAC-CoT: Tool-Empowered Implicit Chain-of-Thought via Interleaving Explicit Tokens",
+      "link": "https://arxiv.org/abs/2611.01926",
+      "excerpt": "LLM-based agentic systems are increasingly combined with CoT reasoning to solve tasks that require accurate reasoning, external knowledge, and multi-step deliberation. Yet, explicit CoT incurs substantial generation overhead, while implicit CoT, which replaces textual rationales with compact continuous tokens, does…",
+      "date": "2026-11-01T09:05:15+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 16 · [HF](https://huggingface.co/papers/2611.01926)"
+    },
+    {
+      "id": "f235830c2bc85031",
+      "title": "On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer",
+      "link": "https://arxiv.org/abs/2611.06976",
+      "excerpt": "Prefill-to-Autoregressive Cross-model Transfer (PACT), a form of latent communication between language models, combines a larger model's prompt representations with a smaller model's efficient generation, offering a promising way to balance capability and inference cost. However, existing systems provide limited…",
+      "date": "2026-11-04T08:33:47+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 15 · [HF](https://huggingface.co/papers/2611.06976)"
+    },
+    {
+      "id": "fe47b041b9779e91",
+      "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+      "link": "https://arxiv.org/abs/2611.07909",
+      "excerpt": "Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leading to artifacts such as blurring, stretching, and temporal instability. We present EDGAR (Efficient…",
       "date": "2026-11-04T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 20 · [HF](https://huggingface.co/papers/2611.07854)"
-    },
-    {
-      "id": "a811ee8bb5a647aa",
-      "title": "VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents",
-      "link": "https://arxiv.org/abs/2611.04894",
-      "excerpt": "Multimodal agents use web and image tools to answer questions beyond their internal knowledge. Some search tasks use images mainly to identify an initial entity, then rely on text retrieval. These tasks offer limited insight into how agents connect information across images, objects, and search steps. We therefore…",
-      "date": "2026-11-02T19:00:00+00:00",
-      "source": "Hugging Face Daily Papers",
-      "category": "ia",
-      "kind": "research",
-      "extra": "▲ 19 · [HF](https://huggingface.co/papers/2611.04894)"
-    },
-    {
-      "id": "434be2e7a9b53338",
-      "title": "D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding",
-      "link": "https://arxiv.org/abs/2611.06425",
-      "excerpt": "Target-conditioned diffusion drafters predict candidate tokens in parallel, yet each new block must wait for updated target-model hidden states. This forces drafting and verification to run sequentially, limiting speedup even though each block is generated in one pass. We introduce D3D, a standalone diffusion drafter…",
-      "date": "2026-11-03T19:00:00+00:00",
-      "source": "Hugging Face Daily Papers",
-      "category": "ia",
-      "kind": "research",
-      "extra": "▲ 18 · [HF](https://huggingface.co/papers/2611.06425)"
+      "extra": "▲ 14 · [HF](https://huggingface.co/papers/2611.07909)"
     }
   ],
-  "errors": []
+  "errors": [
+    "Google DeepMind Blog: not well-formed (invalid token): line 1, column 0"
+  ]
 }

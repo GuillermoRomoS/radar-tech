@@ -21,24 +21,22 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-07](digests/2026/2026-11-07.md)** — 14 elementos/items
+**Última edición · Latest issue: [2026-11-08](digests/2026/2026-11-08.md)** — 10 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Video Friday: Room-Scale Cable-Driven Home Robot Tidies Up](https://spectrum.ieee.org/video-friday-home-cable-robot) — *IEEE Spectrum · Robotics*
-- [How Point One turned GPS accuracy into a robotics platform](https://www.therobotreport.com/how-point-one-turned-gps-accuracy-into-robotics-platform/) — *The Robot Report*
-- [Boston Dynamics built Stretch Gen 2 for reliable, consistent performance](https://www.therobotreport.com/boston-dynamics-built-stretch-gen-2-for-reliable-consistent-performance/) — *The Robot Report*
+- [Robot integration brings high-precision production to midmarket manufacturers](https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 7 – De Gerlache-Kocher Massif](https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/) — *NASA · News Releases*
-- [M30’s Sparkling Stars](https://www.nasa.gov/image-article/m30s-sparkling-stars/) — *NASA · News Releases*
-- [Supercomputing Tech Demo Schedule](https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/) — *NASA · News Releases*
+- [APOD: 2026 November 8 – Major Fireball Meteor](https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/) — *NASA · News Releases*
+- [NASA Awards Moon Base Transportation, Technology, Science Projects](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/) — *NASA · News Releases*
+- [NASA Seeks Next Generation of Explorers to Join Astronaut Corps](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](https://arxiv.org/abs/2611.08373) — *Hugging Face Daily Papers*
-- [TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing](https://arxiv.org/abs/2611.06741) — *Hugging Face Daily Papers*
-- [EvoMemState: Evolving Memory State for Personal Agents](https://arxiv.org/abs/2611.03743) — *Hugging Face Daily Papers*
+- [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://arxiv.org/abs/2611.05376) — *Hugging Face Daily Papers*
+- [Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817) — *Hugging Face Daily Papers*
+- [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md) · [2026-10-29](digests/2026/2026-10-29.md)
+**Archivo reciente · Recent archive:** [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md)
 
 <!-- RADAR:END -->
 
