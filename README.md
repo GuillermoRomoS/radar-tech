@@ -21,22 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-08](digests/2026/2026-11-08.md)** — 10 elementos/items
+**Última edición · Latest issue: [2026-11-09](digests/2026/2026-11-09.md)** — 20 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Robot integration brings high-precision production to midmarket manufacturers](https://www.therobotreport.com/robot-integration-brings-high-precision-production-to-midmarket-manufacturers/) — *The Robot Report*
+- [Q-OIL: Optimistic Exploration in Learning from Human Interventions](https://arxiv.org/abs/2611.08576) — *arXiv cs.RO (Robotics)*
+- [Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation](https://arxiv.org/abs/2611.08577) — *arXiv cs.RO (Robotics)*
+- [CS-Pi: Constraint-Satisfying Flow Policy Sampling](https://arxiv.org/abs/2611.08654) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 8 – Major Fireball Meteor](https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/) — *NASA · News Releases*
-- [NASA Awards Moon Base Transportation, Technology, Science Projects](https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/) — *NASA · News Releases*
-- [NASA Seeks Next Generation of Explorers to Join Astronaut Corps](https://www.nasa.gov/news-release/nasa-seeks-next-generation-of-explorers-to-join-astronaut-corps/) — *NASA · News Releases*
+- [CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars](https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/) — *NASA · News Releases*
+- [APOD: 2026 November 9 – Rigel and the Witch Head Nebula](https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/) — *NASA · News Releases*
+- [Ozone Hole Reaches Its 2026 Maximum](https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/) — *NASA · News Releases*
+
+**💻 Informática · Computing**
+- [The Race to Build a “Find My” for AI Chips](https://spectrum.ieee.org/find-my-ai-chip) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence](https://arxiv.org/abs/2611.05376) — *Hugging Face Daily Papers*
-- [Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models](https://arxiv.org/abs/2611.06817) — *Hugging Face Daily Papers*
-- [Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents](https://arxiv.org/abs/2610.41432) — *Hugging Face Daily Papers*
+- [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264) — *Hugging Face Daily Papers*
+- [P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://arxiv.org/abs/2611.03953) — *Hugging Face Daily Papers*
+- [LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time](https://arxiv.org/abs/2611.07025) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md) · [2026-10-30](digests/2026/2026-10-30.md)
+**Archivo reciente · Recent archive:** [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md)
 
 <!-- RADAR:END -->
 
