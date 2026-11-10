@@ -21,27 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-09](digests/2026/2026-11-09.md)** — 20 elementos/items
+**Última edición · Latest issue: [2026-11-10](digests/2026/2026-11-10.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Q-OIL: Optimistic Exploration in Learning from Human Interventions](https://arxiv.org/abs/2611.08576) — *arXiv cs.RO (Robotics)*
-- [Meituan-Robotics-0: A Vision-Language-Action Foundation Model for Desktop Manipulation](https://arxiv.org/abs/2611.08577) — *arXiv cs.RO (Robotics)*
-- [CS-Pi: Constraint-Satisfying Flow Policy Sampling](https://arxiv.org/abs/2611.08654) — *arXiv cs.RO (Robotics)*
+- [Preference-Augmented Distributional Reinforcement Learning for Risk-Sensitive Navigation](https://arxiv.org/abs/2611.09932) — *arXiv cs.RO (Robotics)*
+- [Efficient Learning of Differentiable MPC Policies on the GPU via Smoothed ADMM and First-Order Reinforcement Learning](https://arxiv.org/abs/2611.09937) — *arXiv cs.RO (Robotics)*
+- [UniLatent: Cross-Embodiment Transfer via Latent Observation Alignment](https://arxiv.org/abs/2611.10061) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [CHAPEA Mission 2 Crew Reflects After 378 Days on Simulated Mars](https://www.nasa.gov/centers-and-facilities/johnson/chapea-mission-2-crew-reflects-after-378-days-on-simulated-mars/) — *NASA · News Releases*
-- [APOD: 2026 November 9 – Rigel and the Witch Head Nebula](https://science.nasa.gov/image-article/apod-2026-november-9-rigel-and-the-witch-head-nebula/) — *NASA · News Releases*
-- [Ozone Hole Reaches Its 2026 Maximum](https://science.nasa.gov/earth/earth-observatory/ozone-hole-reaches-its-2026-maximum/) — *NASA · News Releases*
+- [APOD: 2026 November 10 – Saturn Behind the Moon](https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/) — *NASA · News Releases*
+- [Autumn Mornings Bring Valley Fog](https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/) — *NASA · News Releases*
+- [Curiosity Blog, Sols 5056-5062: Charging Back Up!](https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/) — *NASA · News Releases*
 
 **💻 Informática · Computing**
-- [The Race to Build a “Find My” for AI Chips](https://spectrum.ieee.org/find-my-ai-chip) — *IEEE Spectrum · Computing*
+- [AI Agents Are Testing the Limits of Zero-Trust Security](https://spectrum.ieee.org/zero-trust-agentic-ai-architecture) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264) — *Hugging Face Daily Papers*
-- [P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors](https://arxiv.org/abs/2611.03953) — *Hugging Face Daily Papers*
-- [LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time](https://arxiv.org/abs/2611.07025) — *Hugging Face Daily Papers*
+- [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](https://arxiv.org/abs/2611.12806) — *Hugging Face Daily Papers*
+- [Toward the Era of Agentic Embodied Intelligence](https://arxiv.org/abs/2611.09124) — *Hugging Face Daily Papers*
+- [WorldFoundry: Towards Unified Infrastructure for World Intelligence](https://arxiv.org/abs/2611.10771) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md) · [2026-10-31](digests/2026/2026-10-31.md)
+**Archivo reciente · Recent archive:** [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md) · [2026-11-02](digests/2026/2026-11-02.md) · [2026-11-01](digests/2026/2026-11-01.md)
 
 <!-- RADAR:END -->
 
