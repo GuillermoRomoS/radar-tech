@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-12](digests/2026/2026-11-12.md)** — 18 elementos/items
+**Última edición · Latest issue: [2026-11-13](digests/2026/2026-11-13.md)** — 23 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Viam Launchpad aims to accelerate robotics deployments](https://www.therobotreport.com/viam-launchpad-aims-to-accelerate-robotics-deployments/) — *The Robot Report*
-- [Runway’s Praxis-1 world action model for robotics is now available](https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/) — *The Robot Report*
-- [Serve Robotics opens robot delivery network for others to build on](https://www.therobotreport.com/serve-robotics-opens-robot-delivery-network-for-others-to-build-on/) — *The Robot Report*
+- [Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue](https://arxiv.org/abs/2611.14685) — *arXiv cs.RO (Robotics)*
+- [SunLightBots: Turning sunlight into self-sustained, high-power motion in soft robots](https://arxiv.org/abs/2611.14729) — *arXiv cs.RO (Robotics)*
+- [Open-Source Transtibial Prosthetic Bypass Preserving Joint Alignment: Gait Learning and Kinematic Evaluation](https://arxiv.org/abs/2611.14762) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [NASA’s Hubble Offers Cosmic Sampler of Targets for Roman](https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/) — *NASA · News Releases*
-- [Through NASA’s Lens: Capturing Space Shuttle Endeavour’s Move to LA](https://www.nasa.gov/centers-and-facilities/armstrong/through-nasas-lens-capturing-space-shuttle-endeavours-move-to-la/) — *NASA · News Releases*
-- [APOD: 2026 November 12 – Moon, Venus and Spica Meet](https://science.nasa.gov/image-article/apod-2026-november-12-moon-venus-and-spica-meet/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [NSF’s X-Labs Program Draws Support From Charities and Investors](https://spectrum.ieee.org/national-science-foundation-x-labs) — *IEEE Spectrum · Computing*
+- [APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda](https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/) — *NASA · News Releases*
+- [A Global Rebound for Mangroves](https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/) — *NASA · News Releases*
+- [I Am Artemis Katie Spicer](https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [One Table, Many Queries: Benchmarking Generalist Tabular Models Across Generation, Imputation, and Prediction](https://arxiv.org/abs/2611.13001) — *Hugging Face Daily Papers*
-- [Scaling Mathematical Proof Supervision from Structured Textbooks](https://arxiv.org/abs/2610.40394) — *Hugging Face Daily Papers*
-- [Embodied First Exam](https://arxiv.org/abs/2611.12177) — *Hugging Face Daily Papers*
+- [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777) — *Hugging Face Daily Papers*
+- [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815) — *Hugging Face Daily Papers*
+- [G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation](https://arxiv.org/abs/2611.13004) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md) · [2026-11-03](digests/2026/2026-11-03.md)
+**Archivo reciente · Recent archive:** [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md)
 
 <!-- RADAR:END -->
 
