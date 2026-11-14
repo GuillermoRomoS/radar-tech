@@ -21,24 +21,23 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-13](digests/2026/2026-11-13.md)** — 23 elementos/items
+**Última edición · Latest issue: [2026-11-14](digests/2026/2026-11-14.md)** — 13 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Terrain-Aware Thompson Sampling for Multi-Drone Search and Rescue](https://arxiv.org/abs/2611.14685) — *arXiv cs.RO (Robotics)*
-- [SunLightBots: Turning sunlight into self-sustained, high-power motion in soft robots](https://arxiv.org/abs/2611.14729) — *arXiv cs.RO (Robotics)*
-- [Open-Source Transtibial Prosthetic Bypass Preserving Joint Alignment: Gait Learning and Kinematic Evaluation](https://arxiv.org/abs/2611.14762) — *arXiv cs.RO (Robotics)*
+- [Video Friday: NASA PROMISEs a New Moon Rover](https://spectrum.ieee.org/video-friday-moon-rover-promise) — *IEEE Spectrum · Robotics*
+- [Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial](https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/) — *The Robot Report*
+- [How Rhoda AI is using video data to create generalized AI models for robots](https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 13 – NGC 206 and the Star Clouds of Andromeda](https://science.nasa.gov/image-article/apod-2026-november-13-ngc-206-and-the-star-clouds-of-andromeda/) — *NASA · News Releases*
-- [A Global Rebound for Mangroves](https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/) — *NASA · News Releases*
-- [I Am Artemis Katie Spicer](https://www.nasa.gov/missions/artemis/i-am-artemis-katie-spicer/) — *NASA · News Releases*
+- [Outbursts from a Massive Star](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/) — *NASA · News Releases*
+- [Gemini Astronaut Photos Inspired Early Earth Observation Program](https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](https://arxiv.org/abs/2611.15777) — *Hugging Face Daily Papers*
-- [BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model](https://arxiv.org/abs/2611.14815) — *Hugging Face Daily Papers*
-- [G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation](https://arxiv.org/abs/2611.13004) — *Hugging Face Daily Papers*
+- [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://arxiv.org/abs/2611.15844) — *Hugging Face Daily Papers*
+- [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://arxiv.org/abs/2611.17167) — *Hugging Face Daily Papers*
+- [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](https://arxiv.org/abs/2611.05984) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md) · [2026-11-04](digests/2026/2026-11-04.md)
+**Archivo reciente · Recent archive:** [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md)
 
 <!-- RADAR:END -->
 
