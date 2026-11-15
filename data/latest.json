@@ -1,151 +1,83 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "items": [
     {
-      "id": "0967f4990132ec51",
-      "title": "Video Friday: NASA PROMISEs a New Moon Rover",
-      "link": "https://spectrum.ieee.org/video-friday-moon-rover-promise",
-      "excerpt": "Video Friday is your weekly selection of awesome robotics videos, collected by your friends at IEEE Spectrum robotics. We also post a weekly calendar of upcoming robotics events for the next few months. Please send us your events for inclusion. Humanoids 2026 : 6–9 December 2026, SANTA CLARA, CA Enjoy today’s videos!…",
-      "date": "2026-11-13T17:30:03+00:00",
-      "source": "IEEE Spectrum · Robotics",
-      "category": "robotica",
+      "id": "0224756e339d0072",
+      "title": "Europe’s Digital Wallets May Be More Traceable Than Intended",
+      "link": "https://spectrum.ieee.org/europe-digital-id-security-cryptography",
+      "excerpt": "Millions of European Union citizens should soon have access to digital wallets , as member states roll out their implementations of the European Digital Identity Regulation ahead of an end of the year deadline. But the digital identity wallets, which are intended to provide a secure and private place to store…",
+      "date": "2026-11-14T14:00:02+00:00",
+      "source": "IEEE Spectrum · Computing",
+      "category": "informatica",
       "kind": "news",
       "extra": ""
     },
     {
-      "id": "471fb334b4f96b2a",
-      "title": "Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial",
-      "link": "https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/",
-      "excerpt": "Four of the six robots pass a performance assessment as the trial puts customer service, retail operations and embodied AI capabilities to the test in a working store. The post Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial appeared first on The Robot Report .",
-      "date": "2026-11-13T16:32:58+00:00",
-      "source": "The Robot Report",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "3a31ccef0c0de66b",
-      "title": "How Rhoda AI is using video data to create generalized AI models for robots",
-      "link": "https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/",
-      "excerpt": "Rhoda AI offers a direct video action model, which it recently extended with mobile DVA, to enable robots to understand the physical world. The post How Rhoda AI is using video data to create generalized AI models for robots appeared first on The Robot Report .",
-      "date": "2026-11-13T13:30:44+00:00",
-      "source": "The Robot Report",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "2f9c1e909e271cd7",
-      "title": "Narwal builds robot vacuums to serve regional needs",
-      "link": "https://www.therobotreport.com/narwal-builds-robot-vacuums-to-serve-regional-needs/",
-      "excerpt": "Narwal executives say they spent a decade in research and development and have tailored their household cleaning robots to local markets. The post Narwal builds robot vacuums to serve regional needs appeared first on The Robot Report .",
-      "date": "2026-11-13T13:18:05+00:00",
-      "source": "The Robot Report",
-      "category": "robotica",
-      "kind": "news",
-      "extra": ""
-    },
-    {
-      "id": "1cbd2bca9bd58d1d",
-      "title": "Outbursts from a Massive Star",
-      "link": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/",
-      "excerpt": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star located in the galaxy shown in this image released on Nov. 9, 2026. The volatile star, known as AT 2016blu, is in the spiral galaxy NGC 4559, located about 30 million light-years from…",
-      "date": "2026-11-13T16:39:33+00:00",
-      "source": "NASA · News Releases",
-      "category": "espacio",
-      "kind": "official",
-      "extra": ""
-    },
-    {
-      "id": "17ce9d8841384021",
-      "title": "Gemini Astronaut Photos Inspired Early Earth Observation Program",
-      "link": "https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/",
-      "excerpt": "Astronauts James A. Lovell Jr. and Edwin E. “Buzz” Aldrin Jr. orbited Earth from November 11 to 15, 1966, on Gemini XII, the final mission of NASA’s Gemini program. In addition to successfully completing rendezvous maneuvers and spacewalks, procedures vital to sending American astronauts to the Moon, the crew was also…",
-      "date": "2026-11-13T16:05:54+00:00",
-      "source": "NASA · News Releases",
-      "category": "espacio",
-      "kind": "official",
-      "extra": ""
-    },
-    {
-      "id": "6318c1a9c6359d11",
-      "title": "Open Vision Banana: A Fully Open Recipe for Generative Visual Perception",
-      "link": "https://arxiv.org/abs/2611.15844",
-      "excerpt": "Recent work suggests that pretrained image generators encode real-world understanding beyond image synthesis. Vision Banana exploits this by framing vision tasks as conditional image editing. However, its data, weights, code, and implementation details are not public. We present Open Vision Banana (OVB), a fully open…",
-      "date": "2026-11-10T19:00:00+00:00",
+      "id": "8c97a33ec8de2c8f",
+      "title": "Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement",
+      "link": "https://arxiv.org/abs/2611.08318",
+      "excerpt": "Self-improving embodied agents are increasingly being developed and compared on robot simulation benchmarks. Several recent works expose the benchmark's success criteria to the learning agent, a practice we call Criteria Exposure (CE). These criteria, originally written to verify policies trained by imitation…",
+      "date": "2026-11-04T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 32 · [HF](https://huggingface.co/papers/2611.15844)"
+      "extra": "▲ 21 · [HF](https://huggingface.co/papers/2611.08318)"
     },
     {
-      "id": "2190decebe335125",
-      "title": "Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents",
-      "link": "https://arxiv.org/abs/2611.17167",
-      "excerpt": "Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as actors, judging their…",
+      "id": "4f01543cf76cdc63",
+      "title": "WorldDraft: If Code Builds the World, Can Video Models Just Render It?",
+      "link": "https://arxiv.org/abs/2611.16217",
+      "excerpt": "Multimodal coding agents decouple 4D world construction from visual generation, repurposing video models from world generators toward generative renderers. This division of labor raises a fundamental question: if code builds the world, can video models just render it? A reliable generative renderer hinges on two…",
       "date": "2026-11-11T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 31 · [HF](https://huggingface.co/papers/2611.17167)"
+      "extra": "▲ 16 · [HF](https://huggingface.co/papers/2611.16217)"
     },
     {
-      "id": "9be320beeefa8cd2",
-      "title": "On the Design of Hyper-Connections: Simplification, Stability, and Scalability",
-      "link": "https://arxiv.org/abs/2611.05984",
-      "excerpt": "Hyper-Connections (HC) architectures are increasingly adopted in frontier language models, yet their components remain insufficiently understood and introduce non-negligible training overhead. In this work, we systematically study the HC architecture to understand its components and identify simpler, more efficient…",
-      "date": "2026-11-03T19:00:00+00:00",
-      "source": "Hugging Face Daily Papers",
-      "category": "ia",
-      "kind": "research",
-      "extra": "▲ 27 · [HF](https://huggingface.co/papers/2611.05984)"
-    },
-    {
-      "id": "8685833bc2588fc1",
-      "title": "Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors",
-      "link": "https://arxiv.org/abs/2611.17060",
-      "excerpt": "Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of…",
+      "id": "ef255ee76f671167",
+      "title": "Unbundling Multimodal Vision Encoding",
+      "link": "https://arxiv.org/abs/2611.17334",
+      "excerpt": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream…",
       "date": "2026-11-11T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 26 · [HF](https://huggingface.co/papers/2611.17060)"
+      "extra": "▲ 15 · [HF](https://huggingface.co/papers/2611.17334)"
     },
     {
-      "id": "f741b330c4b394ed",
-      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
-      "link": "https://arxiv.org/abs/2611.17331",
-      "excerpt": "Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy…",
+      "id": "28f099f5330ad90a",
+      "title": "Factored One-sided Adam-Moment for Practical and Scalable SOAP",
+      "link": "https://arxiv.org/abs/2611.16905",
+      "excerpt": "Second-order optimizers (e.g., Shampoo, SOAP) have emerged as compelling alternatives to Adam/AdamW and promise faster per-step convergence than AdamW in transformer training. However, they still remain costly in practice, and even SOAP still pays substantial optimizer-state memory and eigendecomposition overhead. We…",
       "date": "2026-11-11T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 22 · [HF](https://huggingface.co/papers/2611.17331)"
+      "extra": "▲ 14 · [HF](https://huggingface.co/papers/2611.16905)"
     },
     {
-      "id": "14ab5ae0bf3b5b01",
-      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
-      "link": "https://arxiv.org/abs/2608.22237",
-      "excerpt": "Web-facing AI agents repeatedly access webpages, documents, repositories, and tool responses, yet reading interfaces often expose entire objects when only sparse evidence is needed. This over-reading increases token and latency costs and can dilute relevant evidence. We present SparseRead, a reusable reading control…",
-      "date": "2026-11-06T19:00:00+00:00",
+      "id": "9bc50b65722b0bb9",
+      "title": "UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation",
+      "link": "https://arxiv.org/abs/2611.16517",
+      "excerpt": "We present UniSpark-9B, a unified multimodal model that investigates hybrid attention for visual understanding and generation. Built on a Mixture-of-Transformer-Experts backbone with approximately 9B parameters in each branch, UniSpark combines full attention for explicit token interactions with GatedDeltaNet linear…",
+      "date": "2026-11-11T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 22 · [HF](https://huggingface.co/papers/2608.22237)"
+      "extra": "▲ 13 · [HF](https://huggingface.co/papers/2611.16517)"
     },
     {
-      "id": "0d9fae548b15d920",
-      "title": "How Microcredentials Help Engineers Build Trustworthy AI",
-      "link": "https://spectrum.ieee.org/microcredentials-trustworthy-ai",
-      "excerpt": "Engineering teams are moving at breakneck speed to integrate artificial intelligence, but they are running into a formidable new barrier: compliance issues. Translating high-level AI ethics , governance , and auditing into daily operational workflows has become one of the industry’s toughest challenges. “AI ethics”…",
-      "date": "2026-11-13T19:00:03+00:00",
-      "source": "IEEE Spectrum · AI",
+      "id": "88014f14d78395f1",
+      "title": "Interactive Visual Gym: Evaluating Visual Interaction Models with Simulated Users in Interactive Worlds",
+      "link": "https://arxiv.org/abs/2611.08286",
+      "excerpt": "Visual interaction models that support users during ongoing physical tasks require evaluation in closed loop, where assistant responses can change subsequent user behavior and task outcomes. Existing benchmarks largely rely on offline replay and therefore cannot capture these effects. We introduce Interactive Visual…",
+      "date": "2026-11-04T19:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
       "category": "ia",
-      "kind": "news",
-      "extra": ""
+      "kind": "research",
+      "extra": "▲ 13 · [HF](https://huggingface.co/papers/2611.08286)"
     }
   ],
-  "errors": [
-    "Google DeepMind Blog: not well-formed (invalid token): line 1, column 0"
-  ]
+  "errors": []
 }

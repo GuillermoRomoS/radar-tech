@@ -21,23 +21,17 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-14](digests/2026/2026-11-14.md)** — 13 elementos/items
+**Última edición · Latest issue: [2026-11-15](digests/2026/2026-11-15.md)** — 7 elementos/items
 
-**🤖 Robótica · Robotics**
-- [Video Friday: NASA PROMISEs a New Moon Rover](https://spectrum.ieee.org/video-friday-moon-rover-promise) — *IEEE Spectrum · Robotics*
-- [Six AGIBOT G2 Robots Complete 1,730 Tasks in 24-Hour Shanghai Convenience Store Trial](https://www.therobotreport.com/six-agibot-g2-robots-complete-1730-tasks-in-24-hour-shanghai-convenience-store-trial/) — *The Robot Report*
-- [How Rhoda AI is using video data to create generalized AI models for robots](https://www.therobotreport.com/how-rhoda-ai-is-using-video-data-to-create-generalized-ai-models-for-robots/) — *The Robot Report*
-
-**🚀 Espacio · Space**
-- [Outbursts from a Massive Star](https://www.nasa.gov/image-article/outbursts-from-a-massive-star/) — *NASA · News Releases*
-- [Gemini Astronaut Photos Inspired Early Earth Observation Program](https://www.nasa.gov/image-article/gemini-astronaut-photos-inspired-early-earth-observation-program/) — *NASA · News Releases*
+**💻 Informática · Computing**
+- [Europe’s Digital Wallets May Be More Traceable Than Intended](https://spectrum.ieee.org/europe-digital-id-security-cryptography) — *IEEE Spectrum · Computing*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Open Vision Banana: A Fully Open Recipe for Generative Visual Perception](https://arxiv.org/abs/2611.15844) — *Hugging Face Daily Papers*
-- [Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](https://arxiv.org/abs/2611.17167) — *Hugging Face Daily Papers*
-- [On the Design of Hyper-Connections: Simplification, Stability, and Scalability](https://arxiv.org/abs/2611.05984) — *Hugging Face Daily Papers*
+- [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://arxiv.org/abs/2611.08318) — *Hugging Face Daily Papers*
+- [WorldDraft: If Code Builds the World, Can Video Models Just Render It?](https://arxiv.org/abs/2611.16217) — *Hugging Face Daily Papers*
+- [Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md) · [2026-11-05](digests/2026/2026-11-05.md)
+**Archivo reciente · Recent archive:** [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md)
 
 <!-- RADAR:END -->
 
