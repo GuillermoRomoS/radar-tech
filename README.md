@@ -21,17 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-15](digests/2026/2026-11-15.md)** — 7 elementos/items
+**Última edición · Latest issue: [2026-11-16](digests/2026/2026-11-16.md)** — 20 elementos/items
 
-**💻 Informática · Computing**
-- [Europe’s Digital Wallets May Be More Traceable Than Intended](https://spectrum.ieee.org/europe-digital-id-security-cryptography) — *IEEE Spectrum · Computing*
+**🤖 Robótica · Robotics**
+- [Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training](https://arxiv.org/abs/2611.17394) — *arXiv cs.RO (Robotics)*
+- [Racing the Clock: Teaching VLNs Budget-Conditioned Object Search](https://arxiv.org/abs/2611.17442) — *arXiv cs.RO (Robotics)*
+- [Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum](https://arxiv.org/abs/2611.17529) — *arXiv cs.RO (Robotics)*
+
+**🚀 Espacio · Space**
+- [APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/) — *NASA · News Releases*
+- [The Last Ice on Puncak Jaya](https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/) — *NASA · News Releases*
+- [A Large-Scale Technosignature Survey of the Anti-Solar Point with the Allen Telescope Array: Survey Design and Pilot Results](https://arxiv.org/abs/2611.17376) — *arXiv astro-ph.IM (Instrumentation)*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement](https://arxiv.org/abs/2611.08318) — *Hugging Face Daily Papers*
-- [WorldDraft: If Code Builds the World, Can Video Models Just Render It?](https://arxiv.org/abs/2611.16217) — *Hugging Face Daily Papers*
-- [Unbundling Multimodal Vision Encoding](https://arxiv.org/abs/2611.17334) — *Hugging Face Daily Papers*
+- [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359) — *Hugging Face Daily Papers*
+- [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) — *Hugging Face Daily Papers*
+- [Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md) · [2026-11-06](digests/2026/2026-11-06.md)
+**Archivo reciente · Recent archive:** [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md)
 
 <!-- RADAR:END -->
 
