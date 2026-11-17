@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-16](digests/2026/2026-11-16.md)** — 20 elementos/items
+**Última edición · Latest issue: [2026-11-17](digests/2026/2026-11-17.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Agentic-Teacher: An Agentic Data Engine for Failure-Driven VLA Post-Training](https://arxiv.org/abs/2611.17394) — *arXiv cs.RO (Robotics)*
-- [Racing the Clock: Teaching VLNs Budget-Conditioned Object Search](https://arxiv.org/abs/2611.17442) — *arXiv cs.RO (Robotics)*
-- [Learning Latent Goal Costs for Visual World-Model Planning with an Expanding Curriculum](https://arxiv.org/abs/2611.17529) — *arXiv cs.RO (Robotics)*
+- [Robustness as a Transferable Skill: Cross-Task Adversarial Defense for Vision-Language-Action Policies](https://arxiv.org/abs/2611.18702) — *arXiv cs.RO (Robotics)*
+- [Technical Report of Auriga's 1:10 Scale Autonomous Vehicle Robot](https://arxiv.org/abs/2611.18855) — *arXiv cs.RO (Robotics)*
+- [Passage-Focused Soft Coordination for Hierarchical Multi-Robot Navigation in Bottleneck Environments](https://arxiv.org/abs/2611.18877) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb](https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/) — *NASA · News Releases*
-- [The Last Ice on Puncak Jaya](https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/) — *NASA · News Releases*
-- [A Large-Scale Technosignature Survey of the Anti-Solar Point with the Allen Telescope Array: Survey Design and Pilot Results](https://arxiv.org/abs/2611.17376) — *arXiv astro-ph.IM (Instrumentation)*
+- [APOD: 2026 November 17 – Milky Way versus Aurora](https://science.nasa.gov/image-article/apod-2026-november-17-milky-way-versus-aurora/) — *NASA · News Releases*
+- [Tossing Fireworks from Cloud to Cloud](https://science.nasa.gov/earth/earth-observatory/tossing-fireworks-from-cloud-to-cloud/) — *NASA · News Releases*
+- [Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago](https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Envisioning Agentic Robotics: A New Era of Robotic Systems](https://arxiv.org/abs/2611.18359) — *Hugging Face Daily Papers*
-- [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](https://arxiv.org/abs/2611.15789) — *Hugging Face Daily Papers*
-- [Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](https://arxiv.org/abs/2611.18397) — *Hugging Face Daily Papers*
+- [Sage S2.1 Flash Technical Report](https://arxiv.org/abs/2611.21072) — *Hugging Face Daily Papers*
+- [AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](https://arxiv.org/abs/2611.19937) — *Hugging Face Daily Papers*
+- [K2-Horizon: A Frontier Fleet of Open Source Language Models](https://arxiv.org/abs/2611.21003) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md) · [2026-11-07](digests/2026/2026-11-07.md)
+**Archivo reciente · Recent archive:** [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md) · [2026-11-08](digests/2026/2026-11-08.md)
 
 <!-- RADAR:END -->
 
