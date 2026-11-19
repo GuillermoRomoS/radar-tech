@@ -21,27 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-18](digests/2026/2026-11-18.md)** — 28 elementos/items
+**Última edición · Latest issue: [2026-11-19](digests/2026/2026-11-19.md)** — 27 elementos/items
 
 **🤖 Robótica · Robotics**
-- [An Open-Source da Vinci X/Xi Instrument Module for Laparoscopic Surgery Research](https://arxiv.org/abs/2611.21771) — *arXiv cs.RO (Robotics)*
-- [Better Calibrated, Better Planned: Uncertainty-Aware Multi-ASV Informative Path Planning for Oil Spill Monitoring](https://arxiv.org/abs/2611.21783) — *arXiv cs.RO (Robotics)*
-- [ASTRA: ASV Simulator for Transferable Realistic Autonomy](https://arxiv.org/abs/2611.21789) — *arXiv cs.RO (Robotics)*
+- [BiCAT: Bimanual Coordination Action Tokenization](https://arxiv.org/abs/2611.23499) — *arXiv cs.RO (Robotics)*
+- [Learning and Control in Physically Coupled Dynamical Systems](https://arxiv.org/abs/2611.23502) — *arXiv cs.RO (Robotics)*
+- [RageVLA: Augmentation-Trained Perception and Action for State-of-the-Art Robustness on LIBERO](https://arxiv.org/abs/2611.23517) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 18 – An M-class Solar Flare](https://science.nasa.gov/image-article/apod-2026-november-18-an-m-class-solar-flare/) — *NASA · News Releases*
-- [Sierra Snow Season Spins Up](https://science.nasa.gov/earth/earth-observatory/sierra-snow-season-spins-up/) — *NASA · News Releases*
-- [NASA Launches Nuclear Power Systems Student Contest](https://science.nasa.gov/centers-and-facilities/glenn/nasa-launches-nuclear-power-systems-student-contest/) — *NASA · News Releases*
-
-**💻 Informática · Computing**
-- [These Engineers Are Cleaning Up Connected Cars’ Security Flaws](https://spectrum.ieee.org/connected-cars-security) — *IEEE Spectrum · Computing*
+- [APOD: 2026 November 19 – The Horsehead and Flame Nebulas](https://science.nasa.gov/image-article/apod-2026-november-19-the-horsehead-and-flame-nebulas/) — *NASA · News Releases*
+- [El Niño Rains Paint the Atacama](https://science.nasa.gov/earth/earth-observatory/el-nino-rains-paint-the-atacama/) — *NASA · News Releases*
+- [NASA Sets Coverage for Northrop Grumman CRS-25 Launch, Prelaunch](https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grumman-crs-25-launch-prelaunch/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](https://arxiv.org/abs/2611.22115) — *Hugging Face Daily Papers*
-- [AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs](https://arxiv.org/abs/2611.17621) — *Hugging Face Daily Papers*
-- [Weight-Space Programming Doesn't Need Transformers](https://arxiv.org/abs/2611.22055) — *Hugging Face Daily Papers*
+- [Jeveration: System One Models Now Generate](https://arxiv.org/abs/2611.24738) — *Hugging Face Daily Papers*
+- [The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements](https://arxiv.org/abs/2611.23068) — *Hugging Face Daily Papers*
+- [PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling](https://arxiv.org/abs/2611.11318) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md) · [2026-11-09](digests/2026/2026-11-09.md)
+**Archivo reciente · Recent archive:** [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md) · [2026-11-10](digests/2026/2026-11-10.md)
 
 <!-- RADAR:END -->
 
