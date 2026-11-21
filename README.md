@@ -21,28 +21,27 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-20](digests/2026/2026-11-20.md)** — 31 elementos/items
+**Última edición · Latest issue: [2026-11-21](digests/2026/2026-11-21.md)** — 15 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback](https://arxiv.org/abs/2611.25005) — *arXiv cs.RO (Robotics)*
-- [Mapping the Wind to Find the Source: Online Physics-Informed Gas Source Localization with Mobile Robots](https://arxiv.org/abs/2611.25067) — *arXiv cs.RO (Robotics)*
-- [MAWAM: A Multi-Agent World-Action Model for Coordinated Manipulation](https://arxiv.org/abs/2611.25105) — *arXiv cs.RO (Robotics)*
+- [Video Friday: Drone Squeezes Itself to Fit Through Tight Spaces](https://spectrum.ieee.org/video-friday-morphing-robots-quadrotor) — *IEEE Spectrum · Robotics*
+- [Medtronic’s Hugo surgical robot ready for bigger operation](https://www.therobotreport.com/medtronics-hugo-surgical-robot-ready-for-bigger-operation/) — *The Robot Report*
+- [MassRobotics launching marine robotics facility on Boston Harbor](https://www.therobotreport.com/massrobotics-launching-marine-robotics-facility-on-boston-harbor/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 20 – V-G-R](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/) — *NASA · News Releases*
-- [The Stormy Southwest Pacific](https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/) — *NASA · News Releases*
-- [Challenge: Public Input on Life and the World in 2075](https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/) — *NASA · News Releases*
+- [APOD: 2026 November 21 – Voyager’s Neptune](https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/) — *NASA · News Releases*
+- [Curiosity Spots Drifting Twilight Clouds](https://science.nasa.gov/photojournal/curiosity-spots-drifting-twilight-clouds/) — *NASA · News Releases*
+- [New NASA Seed Funding Primes Small Businesses for Innovation](https://www.nasa.gov/directorates/rtmd/new-nasa-seed-funding-primes-small-businesses-for-innovation/) — *NASA · News Releases*
 
 **💻 Informática · Computing**
-- [I Don’t Trust Visual Recordings Anymore. But One Day I Will Again](https://spectrum.ieee.org/fighting-back-against-deep-fakes) — *IEEE Spectrum · Computing*
-- [Systems and Software Outages Explained: Who or What Is Responsible?](https://spectrum.ieee.org/it-outage) — *IEEE Spectrum · Computing*
+- [Network Researchers Nail Down Theory of ‘Perfect Resilience’](https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/) — *Quanta Magazine · Computer Science*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](https://arxiv.org/abs/2611.26444) — *Hugging Face Daily Papers*
-- [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://arxiv.org/abs/2611.21373) — *Hugging Face Daily Papers*
-- [WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](https://arxiv.org/abs/2611.26409) — *Hugging Face Daily Papers*
+- [Posterior Matching Distillation](https://arxiv.org/abs/2611.26629) — *Hugging Face Daily Papers*
+- [Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](https://arxiv.org/abs/2611.26603) — *Hugging Face Daily Papers*
+- [HiUni: Harmonizing Understanding and Generation in Shared Visual Space](https://arxiv.org/abs/2611.26107) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md) · [2026-11-11](digests/2026/2026-11-11.md)
+**Archivo reciente · Recent archive:** [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md) · [2026-11-12](digests/2026/2026-11-12.md)
 
 <!-- RADAR:END -->
 
