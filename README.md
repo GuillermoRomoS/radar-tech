@@ -21,20 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-22](digests/2026/2026-11-22.md)** — 8 elementos/items
+**Última edición · Latest issue: [2026-11-23](digests/2026/2026-11-23.md)** — 22 elementos/items
 
 **🤖 Robótica · Robotics**
-- [The manufacturing data gap holding back physical AI](https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/) — *The Robot Report*
+- [One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications](https://arxiv.org/abs/2611.26676) — *arXiv cs.RO (Robotics)*
+- [Latent Space Planning with Sequential Monte Carlo](https://arxiv.org/abs/2611.26706) — *arXiv cs.RO (Robotics)*
+- [FORTH: Grounding Tactile VLA Execution via Forward-Only Proxy-Control Pairing](https://arxiv.org/abs/2611.26744) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno](https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/) — *NASA · News Releases*
+- [NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/) — *NASA · News Releases*
+- [APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/) — *NASA · News Releases*
+- [Laser Focus at the Top of the World](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain](https://arxiv.org/abs/2611.26414) — *Hugging Face Daily Papers*
-- [RL Post-Training in Diffusion Transformers Is Activation Steering](https://arxiv.org/abs/2611.26627) — *Hugging Face Daily Papers*
-- [Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining](https://arxiv.org/abs/2611.26268) — *Hugging Face Daily Papers*
+- [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://arxiv.org/abs/2611.27193) — *Hugging Face Daily Papers*
+- [Non-penetrating World Models](https://arxiv.org/abs/2611.27963) — *Hugging Face Daily Papers*
+- [Clover-35B-A3B-Preview Technical Report](https://arxiv.org/abs/2611.24636) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md) · [2026-11-13](digests/2026/2026-11-13.md)
+**Archivo reciente · Recent archive:** [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md)
 
 <!-- RADAR:END -->
 

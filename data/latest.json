@@ -1,96 +1,248 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "items": [
     {
-      "id": "3640b1da9f52bc36",
-      "title": "The manufacturing data gap holding back physical AI",
-      "link": "https://www.therobotreport.com/the-manufacturing-data-gap-holding-back-physical-ai/",
-      "excerpt": "Manufacturers looking to deploy autonomous robots must close gaps in industrial data collection, interoperability, and quality feedback to enable reliable decision-making and improve production efficiency. The post The manufacturing data gap holding back physical AI appeared first on The Robot Report .",
-      "date": "2026-11-21T22:25:35+00:00",
+      "id": "6f992a648759a13f",
+      "title": "One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications",
+      "link": "https://arxiv.org/abs/2611.26676",
+      "excerpt": "System-level simulation is widely used to validate robotic applications before hardware deployment. However, Robot Operating System 2 (ROS 2), a popular middleware for such applications, uses asynchronous publish-subscribe communication, which can make application behavior depend on scheduling and the platform. The…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "ae39b9bec04c4503",
+      "title": "Latent Space Planning with Sequential Monte Carlo",
+      "link": "https://arxiv.org/abs/2611.26706",
+      "excerpt": "Planning with learned world models amounts to finding action sequences whose predicted rollouts reach a goal. Sampling-based planners often struggle at longer horizons, while gradient-based methods can become trapped in local minima. Meanwhile, model predictive path integral control (MPPI), a complementary approach…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "ae4052c381df2778",
+      "title": "FORTH: Grounding Tactile VLA Execution via Forward-Only Proxy-Control Pairing",
+      "link": "https://arxiv.org/abs/2611.26744",
+      "excerpt": "Vision-Language-Action (VLA) policies are widely credited with force control, operating on the unverified assumption that proxy loss minimization implies physical force grounding. In this work, we demonstrate that this assumption breaks down at three core deployment levels: frozen visual backbones discard contact…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "939dd4e24efec694",
+      "title": "MomentMem: Memorizing Key Moments for Robot Manipulation",
+      "link": "https://arxiv.org/abs/2611.26745",
+      "excerpt": "Robotic manipulation often requires remembering visual information that is no longer observable, such as the original location of an object. Existing approaches typically rely on full observation histories, which become redundant over long horizons, or text summaries, which may omit precise visual details. We study…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "106ea704cd9a36d5",
+      "title": "Search-Informed MPPI for Kinodynamic Motion Planning via Monte Carlo Tree Expansion",
+      "link": "https://arxiv.org/abs/2611.26763",
+      "excerpt": "Kinodynamic motion planning in large-scale, cluttered environments remains challenging, as dynamically feasible, collision-free trajectories must be computed efficiently over long horizons. Monte Carlo Tree Search (MCTS) can strategically explore long-horizon alternatives but faces large branching factors in…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "ad69688ff51888e0",
+      "title": "TacHOI: Contact-Aware Object Reconstruction and Tracking for Egocentric Videos",
+      "link": "https://arxiv.org/abs/2611.26764",
+      "excerpt": "Egocentric videos offer a scalable source of human demonstrations for robot learning. However, recovering metric object geometry and motion from monocular video is hindered by scale-depth ambiguity and hand-induced occlusion, while image-derived contact and shape priors alone cannot uniquely determine metric scale. We…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv cs.RO (Robotics)",
+      "category": "robotica",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "f59e860c1274a2b2",
+      "title": "Special Report: Engineering Focus on Motion Control",
+      "link": "https://www.therobotreport.com/special-report-engineering-focus-on-motion-control/",
+      "excerpt": "The Robot Report looks at recent advances in automation for manufacturing, from improvements in technologies and use cases to the potential of humanoids and AI. The post Special Report: Engineering Focus on Motion Control appeared first on The Robot Report .",
+      "date": "2026-11-23T15:16:26+00:00",
       "source": "The Robot Report",
       "category": "robotica",
       "kind": "news",
       "extra": ""
     },
     {
-      "id": "9884dabb702db086",
-      "title": "APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno",
-      "link": "https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/",
-      "excerpt": "APOD Science APOD APOD: 2026 November 22 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
-      "date": "2026-11-22T05:05:00+00:00",
+      "id": "e7d2182135344f1b",
+      "title": "NVIDIA reinstates Jensen Huang after 11-day absence",
+      "link": "https://www.therobotreport.com/nvidia-reinstates-jensen-huang-after-11-day-absence/",
+      "excerpt": "The NVIDIA board reversed its decision following discussions with Huang and senior U.S. government officials, amid growing pressure from the White House, investors and technology executives. The post NVIDIA reinstates Jensen Huang after 11-day absence appeared first on The Robot Report .",
+      "date": "2026-11-23T14:20:46+00:00",
+      "source": "The Robot Report",
+      "category": "robotica",
+      "kind": "news",
+      "extra": ""
+    },
+    {
+      "id": "67813de0a1c8de6e",
+      "title": "NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution",
+      "link": "https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/",
+      "excerpt": "NASA’s James Webb Space Telescope has painted a vibrant tapestry of the legendary supernova remnant Cassiopeia A (Cas A). Remnants like these are the clouds of gas and dust that remain following the explosion of a massive star and will eventually seed a new generation of stars and planets. This high-resolution…",
+      "date": "2026-11-23T15:00:00+00:00",
       "source": "NASA · News Releases",
       "category": "espacio",
       "kind": "official",
       "extra": ""
     },
     {
-      "id": "335988aa8dc96175",
-      "title": "ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain",
-      "link": "https://arxiv.org/abs/2611.26414",
-      "excerpt": "Representative vision-language navigation (VLN) methods typically couple a vision-language model (VLM) brain with a learnable action head and fine-tune the VLM brain on navigation-domain data to predict geometric goals. However, such adaptation can substantially alter base VLM weights and degrade general visual…",
-      "date": "2026-11-18T19:00:00+00:00",
+      "id": "8e16d10fd0b07297",
+      "title": "APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251",
+      "link": "https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/",
+      "excerpt": "APOD Science APOD APOD: 2026 November 23 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a…",
+      "date": "2026-11-23T05:05:00+00:00",
+      "source": "NASA · News Releases",
+      "category": "espacio",
+      "kind": "official",
+      "extra": ""
+    },
+    {
+      "id": "3f6729e1f5d8238f",
+      "title": "Laser Focus at the Top of the World",
+      "link": "https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/",
+      "excerpt": "A next-generation geodetic instrument developed by NASA, part of a network that helps measure satellites’ orbits and the planet’s shape, has debuted in Svalbard, Norway.",
+      "date": "2026-11-23T05:01:00+00:00",
+      "source": "NASA · News Releases",
+      "category": "espacio",
+      "kind": "official",
+      "extra": ""
+    },
+    {
+      "id": "8a2dbf593542b796",
+      "title": "65 Years of Human Spaceflight at NASA Johnson",
+      "link": "https://www.nasa.gov/centers-and-facilities/johnson/65-years-of-human-spaceflight-at-nasa-johnson/",
+      "excerpt": "For 65 years, NASA’s Johnson Space Center in Houston has helped shape human spaceflight, from the Gemini missions that demonstrated rendezvous and docking techniques needed for Apollo to the research conducted aboard the International Space Station, which has supported a continuous human presence for more than 26…",
+      "date": "2026-11-22T19:13:25+00:00",
+      "source": "NASA · News Releases",
+      "category": "espacio",
+      "kind": "official",
+      "extra": ""
+    },
+    {
+      "id": "5939c8d24589f599",
+      "title": "Analytical Modeling of Thermal Shield-Induced Tilt Noise in Lunar Regolith: Constraints on Future Lunar Seismometers and Gravitational waves Detectors",
+      "link": "https://arxiv.org/abs/2611.26658",
+      "excerpt": "Surface features such as thermal shields, insulating blankets, and exposed rocks modify the absorption of solar radiation in the lunar regolith, producing lateral temperature gradients missed by one-dimensional thermal models. These gradients cause thermoelastic deformation that tilts surface-deployed seismic…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv astro-ph.IM (Instrumentation)",
+      "category": "espacio",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "ef277315e799f58e",
+      "title": "PLATON 7: An ultra-fast exoplanet atmospheric retrieval code",
+      "link": "https://arxiv.org/abs/2611.26680",
+      "excerpt": "PLATON is an open source Python package for atmospheric retrieval, first released in 2018. We introduce PLATON 7, a complete rewrite of PLATON using Claude Fable 5. The biggest changes are that PLATON now uses JAX for all intensive calculations, and these calculations are now performed in single precision instead of…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv astro-ph.IM (Instrumentation)",
+      "category": "espacio",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "a8c52198160e20b9",
+      "title": "Generative Bayesian modelling of radio antenna beams An application to the MeerKAT radio telescope",
+      "link": "https://arxiv.org/abs/2611.26713",
+      "excerpt": "Accurate primary beam models are essential for high-fidelity calibration and imaging in radio astronomy. Traditional approaches either lack the ability to represent realistic antenna patterns (analytical models) or become computationally prohibitive to interpolate for wide-bandwidth observations (electromagnetic…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv astro-ph.IM (Instrumentation)",
+      "category": "espacio",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "7e78f086be5f0149",
+      "title": "Computing the Wave: Bridging Gravitational Wave and High-Energy-Physics software (with modular ROOT extensions)",
+      "link": "https://arxiv.org/abs/2611.27026",
+      "excerpt": "High-Energy Physics (HEP) and Gravitational Wave (GW) astronomy pursue different scientific goals, yet they face strikingly similar computing challenges and can enrich one another through shared software. Building on the prototype presented at ACAT 2024, we report on the consolidation of that work into a single…",
+      "date": "2026-11-23T05:00:00+00:00",
+      "source": "arXiv astro-ph.IM (Instrumentation)",
+      "category": "espacio",
+      "kind": "research",
+      "extra": ""
+    },
+    {
+      "id": "3e864e70bcb2a6ce",
+      "title": "cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction",
+      "link": "https://arxiv.org/abs/2611.27193",
+      "excerpt": "Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix residual streams within…",
+      "date": "2026-11-19T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 22 · [HF](https://huggingface.co/papers/2611.26414)"
+      "extra": "▲ 82 · [HF](https://huggingface.co/papers/2611.27193)"
     },
     {
-      "id": "18030cf50d9822e1",
-      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
-      "link": "https://arxiv.org/abs/2611.26627",
-      "excerpt": "Reinforcement learning (RL) post-training substantially improves the visual quality, text rendering, and compositional accuracy of diffusion transformers. Because capabilities such as rendering requested text or composing multiple objects are inherently prompt-dependent, a natural hypothesis is that improving them…",
-      "date": "2026-11-18T19:00:00+00:00",
+      "id": "9833cac21d4b3237",
+      "title": "Non-penetrating World Models",
+      "link": "https://arxiv.org/abs/2611.27963",
+      "excerpt": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent…",
+      "date": "2026-11-19T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 19 · [HF](https://huggingface.co/papers/2611.26627)"
+      "extra": "▲ 53 · [HF](https://huggingface.co/papers/2611.27963)"
     },
     {
-      "id": "a0c418e6dda133dc",
-      "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
-      "link": "https://arxiv.org/abs/2611.26268",
-      "excerpt": "Mixture of Block Attention (MoBA) reduces long-context computation by selecting key-value (KV) blocks for each query. FlashMoBA implements MoBA efficiently but retains a fixed Top-k budget and query-centric schedule. Fixed Top-k applies one budget across different score distributions and couples routing to task…",
-      "date": "2026-11-18T19:00:00+00:00",
-      "source": "Hugging Face Daily Papers",
-      "category": "ia",
-      "kind": "research",
-      "extra": "▲ 18 · [HF](https://huggingface.co/papers/2611.26268)"
-    },
-    {
-      "id": "7ed6112c8b268d0a",
-      "title": "WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation",
-      "link": "https://arxiv.org/abs/2611.24011",
-      "excerpt": "Arm-free quadrupeds can perform loco-manipulation, walking on three legs while manipulating with a front leg, yet no existing policy for it follows language instructions. World action models (WAMs) have emerged as effective language-conditioned manipulation policies, but are pretrained for robot arms and sample…",
+      "id": "9f83ba81afcd1f19",
+      "title": "Clover-35B-A3B-Preview Technical Report",
+      "link": "https://arxiv.org/abs/2611.24636",
+      "excerpt": "We introduce Clover-35B-A3B-Preview (Clover), a mixture-of-experts diffusion language model with 35 billion total parameters and 3 billion activated parameters, supporting thinking-mode generation. Clover adapts Gated Delta Networks to block diffusion by combining recurrent memory of previously generated context with…",
       "date": "2026-11-17T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 16 · [HF](https://huggingface.co/papers/2611.24011)"
+      "extra": "▲ 34 · [HF](https://huggingface.co/papers/2611.24636)"
     },
     {
-      "id": "636d7b3b28e706eb",
-      "title": "Training Vision Models for LLM-Driven Weight-Space Programming",
-      "link": "https://arxiv.org/abs/2611.26408",
-      "excerpt": "It has been demonstrated that, in certain settings, large language models can perform weight-space programming to directly modify the weights of neural networks. However, it is unknown how dedicated training of these networks can contribute to the successes of weight-space programming. We present a benchmark of…",
+      "id": "7df4d143f820ffe4",
+      "title": "Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning",
+      "link": "https://arxiv.org/abs/2611.15449",
+      "excerpt": "Text-aware image super-resolution (TAISR) aims to recover high-resolution images from low-resolution inputs while preserving textual content. Existing methods treat this as a visual restoration problem, yet severely degraded text often cannot be read from local visual evidence alone. Humans instead read it by…",
+      "date": "2026-11-10T19:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 21 · [HF](https://huggingface.co/papers/2611.15449)"
+    },
+    {
+      "id": "9fe3e937f57a6930",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "link": "https://arxiv.org/abs/2611.21885",
+      "excerpt": "Language models are trained once, frozen and deployed: improving one again takes another training run, and a prompt, a scaffold or extra computation at inference is gone once the task ends. A frontier model has been shown to edit the weights of a much smaller one. We ask whether a model can rewrite its own weights to…",
+      "date": "2026-11-15T19:00:00+00:00",
+      "source": "Hugging Face Daily Papers",
+      "category": "ia",
+      "kind": "research",
+      "extra": "▲ 21 · [HF](https://huggingface.co/papers/2611.21885)"
+    },
+    {
+      "id": "26f8186775174e14",
+      "title": "Duopra: From Full-Duplex Conversation to Full-Duplex Agency",
+      "link": "https://arxiv.org/abs/2611.25773",
+      "excerpt": "Full-duplex interaction models exhibit strong conversational agency, enabling natural, low-latency turn-taking, backchannels, and interruptions. However, completing tasks further requires task agency: timely tool invocation and argument revision following user corrections. Frontend-backend agents separate initiation…",
       "date": "2026-11-18T19:00:00+00:00",
       "source": "Hugging Face Daily Papers",
       "category": "ia",
       "kind": "research",
-      "extra": "▲ 15 · [HF](https://huggingface.co/papers/2611.26408)"
-    },
-    {
-      "id": "0f1db7316aa06aa7",
-      "title": "Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models",
-      "link": "https://arxiv.org/abs/2611.25980",
-      "excerpt": "World models aim to predict environment dynamics under actions, enabling the prediction of action consequences without executing them in the real world. Yet despite producing increasingly realistic videos, current world models often fail to capture how small action changes affect future observations. This limits their…",
-      "date": "2026-11-18T19:00:00+00:00",
-      "source": "Hugging Face Daily Papers",
-      "category": "ia",
-      "kind": "research",
-      "extra": "▲ 15 · [HF](https://huggingface.co/papers/2611.25980)"
+      "extra": "▲ 20 · [HF](https://huggingface.co/papers/2611.25773)"
     }
   ],
-  "errors": [
-    "Google DeepMind Blog: not well-formed (invalid token): line 1, column 0"
-  ]
+  "errors": []
 }
