@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-23](digests/2026/2026-11-23.md)** — 22 elementos/items
+**Última edición · Latest issue: [2026-11-24](digests/2026/2026-11-24.md)** — 25 elementos/items
 
 **🤖 Robótica · Robotics**
-- [One Behavior, Out of Order: Deterministic Execution and Parallel Simulation of ROS 2 Applications](https://arxiv.org/abs/2611.26676) — *arXiv cs.RO (Robotics)*
-- [Latent Space Planning with Sequential Monte Carlo](https://arxiv.org/abs/2611.26706) — *arXiv cs.RO (Robotics)*
-- [FORTH: Grounding Tactile VLA Execution via Forward-Only Proxy-Control Pairing](https://arxiv.org/abs/2611.26744) — *arXiv cs.RO (Robotics)*
+- [5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments](https://arxiv.org/abs/2611.28053) — *arXiv cs.RO (Robotics)*
+- [FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference](https://arxiv.org/abs/2611.28256) — *arXiv cs.RO (Robotics)*
+- [Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning](https://arxiv.org/abs/2611.28260) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [NASA’s Webb Shows How Supernova Dust Chronicles Star Evolution](https://science.nasa.gov/missions/webb/nasas-webb-shows-how-supernova-dust-chronicles-star-evolution/) — *NASA · News Releases*
-- [APOD: 2026 November 23 – The Emergence of Dark Nebula Lynds 1251](https://science.nasa.gov/image-article/apod-2026-november-23-the-emergence-of-dark-nebula-lynds-1251/) — *NASA · News Releases*
-- [Laser Focus at the Top of the World](https://science.nasa.gov/earth/earth-observatory/laser-focus-at-the-top-of-the-world/) — *NASA · News Releases*
+- [NASA Hubble’s New View of NGC 4394 Raises the Bar](https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/) — *NASA · News Releases*
+- [APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group](https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/) — *NASA · News Releases*
+- [Eruption Extends Iwo Jima’s Beach](https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](https://arxiv.org/abs/2611.27193) — *Hugging Face Daily Papers*
-- [Non-penetrating World Models](https://arxiv.org/abs/2611.27963) — *Hugging Face Daily Papers*
-- [Clover-35B-A3B-Preview Technical Report](https://arxiv.org/abs/2611.24636) — *Hugging Face Daily Papers*
+- [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](https://arxiv.org/abs/2611.29897) — *Hugging Face Daily Papers*
+- [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://arxiv.org/abs/2611.31201) — *Hugging Face Daily Papers*
+- [WorldLeague: Benchmarking Physical Agency](https://arxiv.org/abs/2611.30989) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md) · [2026-11-14](digests/2026/2026-11-14.md)
+**Archivo reciente · Recent archive:** [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md)
 
 <!-- RADAR:END -->
 
