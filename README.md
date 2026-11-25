@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-24](digests/2026/2026-11-24.md)** — 25 elementos/items
+**Última edición · Latest issue: [2026-11-25](digests/2026/2026-11-25.md)** — 24 elementos/items
 
 **🤖 Robótica · Robotics**
-- [5G NR Sensing of Robotic Arm Motion in Indoor Factory Environments](https://arxiv.org/abs/2611.28053) — *arXiv cs.RO (Robotics)*
-- [FlowPAC: Flow-Guided Visual Pruning and Action Caching for Efficient VLA Inference](https://arxiv.org/abs/2611.28256) — *arXiv cs.RO (Robotics)*
-- [Neural Fidelity Calibration: Turning Field Anomalies into Simulation Fine-Tuning](https://arxiv.org/abs/2611.28260) — *arXiv cs.RO (Robotics)*
+- [EvoMisty: Building, Optimizing, and Evolving Capabilities on a Social Robot](https://arxiv.org/abs/2611.31341) — *arXiv cs.RO (Robotics)*
+- [Learning from Human Corrections through Temporal Preferences](https://arxiv.org/abs/2611.31446) — *arXiv cs.RO (Robotics)*
+- [Geometric Control Analysis of an Internally Actuated Flying Wing](https://arxiv.org/abs/2611.31463) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [NASA Hubble’s New View of NGC 4394 Raises the Bar](https://science.nasa.gov/missions/hubble/nasa-hubbles-new-view-of-ngc-4394-raises-the-bar/) — *NASA · News Releases*
-- [APOD: 2026 November 24 – Galaxies Battle in the NGC 7771 Group](https://science.nasa.gov/image-article/apod-2026-november-24-galaxies-battle-in-the-ngc-7771-group/) — *NASA · News Releases*
-- [Eruption Extends Iwo Jima’s Beach](https://science.nasa.gov/earth/earth-observatory/eruption-extends-iwo-jimas-beach/) — *NASA · News Releases*
+- [APOD: 2026 November 25 – SPHEREx Seeing Through Dust](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/) — *NASA · News Releases*
+- [Georgia’s Pecan Belt](https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/) — *NASA · News Releases*
+- [NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema](https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control](https://arxiv.org/abs/2611.29897) — *Hugging Face Daily Papers*
-- [Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](https://arxiv.org/abs/2611.31201) — *Hugging Face Daily Papers*
-- [WorldLeague: Benchmarking Physical Agency](https://arxiv.org/abs/2611.30989) — *Hugging Face Daily Papers*
+- [Antom 3-in-1 Transformer: A Payment Foundation Model](https://arxiv.org/abs/2611.25403) — *Hugging Face Daily Papers*
+- [Rewirable Circuits in Transformers with Loom Attention](https://arxiv.org/abs/2611.30634) — *Hugging Face Daily Papers*
+- [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](https://arxiv.org/abs/2611.32884) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md) · [2026-11-15](digests/2026/2026-11-15.md)
+**Archivo reciente · Recent archive:** [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md)
 
 <!-- RADAR:END -->
 
