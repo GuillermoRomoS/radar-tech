@@ -21,24 +21,24 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-25](digests/2026/2026-11-25.md)** — 24 elementos/items
+**Última edición · Latest issue: [2026-11-26](digests/2026/2026-11-26.md)** — 26 elementos/items
 
 **🤖 Robótica · Robotics**
-- [EvoMisty: Building, Optimizing, and Evolving Capabilities on a Social Robot](https://arxiv.org/abs/2611.31341) — *arXiv cs.RO (Robotics)*
-- [Learning from Human Corrections through Temporal Preferences](https://arxiv.org/abs/2611.31446) — *arXiv cs.RO (Robotics)*
-- [Geometric Control Analysis of an Internally Actuated Flying Wing](https://arxiv.org/abs/2611.31463) — *arXiv cs.RO (Robotics)*
+- [Effect-Driven Skill Abstractions for Offline Reinforcement Learning](https://arxiv.org/abs/2611.33229) — *arXiv cs.RO (Robotics)*
+- [Why Does Sensor Depth Fail Learned Manipulation Policies? Finding the Failure Mode with ACT](https://arxiv.org/abs/2611.33352) — *arXiv cs.RO (Robotics)*
+- [FOCI: Trajectory Optimization on Gaussian Splats for Gaussian Robots](https://arxiv.org/abs/2611.33380) — *arXiv cs.RO (Robotics)*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 25 – SPHEREx Seeing Through Dust](https://science.nasa.gov/image-article/apod-2026-november-25-spherex-seeing-through-dust/) — *NASA · News Releases*
-- [Georgia’s Pecan Belt](https://science.nasa.gov/earth/earth-observatory/georgias-pecan-belt/) — *NASA · News Releases*
-- [NASA+ Content Coming to Big Screen at Greenbelt, Maryland Cinema](https://www.nasa.gov/nasa/nasa-content-coming-to-big-screen-at-greenbelt-maryland-cinema/) — *NASA · News Releases*
+- [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/) — *NASA · News Releases*
+- [Seeking Refuge on Resolution Island](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/) — *NASA · News Releases*
+- [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Antom 3-in-1 Transformer: A Payment Foundation Model](https://arxiv.org/abs/2611.25403) — *Hugging Face Daily Papers*
-- [Rewirable Circuits in Transformers with Loom Attention](https://arxiv.org/abs/2611.30634) — *Hugging Face Daily Papers*
-- [Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](https://arxiv.org/abs/2611.32884) — *Hugging Face Daily Papers*
+- [Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://arxiv.org/abs/2611.34849) — *Hugging Face Daily Papers*
+- [Sage-Med: Scaling Medical Multimodal Intelligence](https://arxiv.org/abs/2611.34575) — *Hugging Face Daily Papers*
+- [Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md) · [2026-11-16](digests/2026/2026-11-16.md)
+**Archivo reciente · Recent archive:** [2026-11-26](digests/2026/2026-11-26.md) · [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md)
 
 <!-- RADAR:END -->
 
