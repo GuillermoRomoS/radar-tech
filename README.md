@@ -21,24 +21,22 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-26](digests/2026/2026-11-26.md)** — 26 elementos/items
+**Última edición · Latest issue: [2026-11-27](digests/2026/2026-11-27.md)** — 14 elementos/items
 
 **🤖 Robótica · Robotics**
-- [Effect-Driven Skill Abstractions for Offline Reinforcement Learning](https://arxiv.org/abs/2611.33229) — *arXiv cs.RO (Robotics)*
-- [Why Does Sensor Depth Fail Learned Manipulation Policies? Finding the Failure Mode with ACT](https://arxiv.org/abs/2611.33352) — *arXiv cs.RO (Robotics)*
-- [FOCI: Trajectory Optimization on Gaussian Splats for Gaussian Robots](https://arxiv.org/abs/2611.33380) — *arXiv cs.RO (Robotics)*
+- [GXO doubling down on robotics in 2027](https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/) — *The Robot Report*
 
 **🚀 Espacio · Space**
-- [APOD: 2026 November 26 – Eye in the Sky: The Milky Way over Lençóis](https://science.nasa.gov/image-article/apod-2026-november-26-eye-in-the-sky-the-milky-way-over-lencois/) — *NASA · News Releases*
-- [Seeking Refuge on Resolution Island](https://science.nasa.gov/earth/earth-observatory/seeking-refuge-on-resolution-island/) — *NASA · News Releases*
-- [NASA Enhances Supplier Program, Announces Mentor-Protégé Agreement](https://www.nasa.gov/organizations/osbp/nasa-enhances-supplier-program-announces-mentor-protege-agreement/) — *NASA · News Releases*
+- [NASA’s NG-25 Mission to Launch Pioneering Space Crops Research](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/) — *NASA · News Releases*
+- [APOD: 2026 November 27 – The Moon Watchers](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/) — *NASA · News Releases*
+- [Shivelyuch Socked In](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](https://arxiv.org/abs/2611.34849) — *Hugging Face Daily Papers*
-- [Sage-Med: Scaling Medical Multimodal Intelligence](https://arxiv.org/abs/2611.34575) — *Hugging Face Daily Papers*
-- [Mixture-of-Loops Transformer](https://arxiv.org/abs/2611.34923) — *Hugging Face Daily Papers*
+- [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://arxiv.org/abs/2611.34051) — *Hugging Face Daily Papers*
+- [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://arxiv.org/abs/2611.34232) — *Hugging Face Daily Papers*
+- [What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models](https://arxiv.org/abs/2611.31619) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-26](digests/2026/2026-11-26.md) · [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md) · [2026-11-17](digests/2026/2026-11-17.md)
+**Archivo reciente · Recent archive:** [2026-11-27](digests/2026/2026-11-27.md) · [2026-11-26](digests/2026/2026-11-26.md) · [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md)
 
 <!-- RADAR:END -->
 
