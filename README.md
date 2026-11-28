@@ -21,22 +21,18 @@
 
 <!-- RADAR:START -->
 
-**Última edición · Latest issue: [2026-11-27](digests/2026/2026-11-27.md)** — 14 elementos/items
-
-**🤖 Robótica · Robotics**
-- [GXO doubling down on robotics in 2027](https://www.therobotreport.com/gxo-doubling-down-on-robotics-in-2027/) — *The Robot Report*
+**Última edición · Latest issue: [2026-11-28](digests/2026/2026-11-28.md)** — 9 elementos/items
 
 **🚀 Espacio · Space**
-- [NASA’s NG-25 Mission to Launch Pioneering Space Crops Research](https://science.nasa.gov/science-research/biological-physical-sciences/nasas-ng-25-mission-to-launch-pioneering-space-crops-research/) — *NASA · News Releases*
-- [APOD: 2026 November 27 – The Moon Watchers](https://science.nasa.gov/image-article/apod-2026-november-27-the-moon-watchers/) — *NASA · News Releases*
-- [Shivelyuch Socked In](https://science.nasa.gov/earth/earth-observatory/shivelyuch-socked-in/) — *NASA · News Releases*
+- [APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph](https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/) — *NASA · News Releases*
+- [Artemis III Astronaut Andre Douglas Visits VAB](https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/) — *NASA · News Releases*
 
 **🧠 Inteligencia artificial · Artificial intelligence**
-- [Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability](https://arxiv.org/abs/2611.34051) — *Hugging Face Daily Papers*
-- [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://arxiv.org/abs/2611.34232) — *Hugging Face Daily Papers*
-- [What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models](https://arxiv.org/abs/2611.31619) — *Hugging Face Daily Papers*
+- [Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](https://arxiv.org/abs/2611.34813) — *Hugging Face Daily Papers*
+- [StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation](https://arxiv.org/abs/2611.34290) — *Hugging Face Daily Papers*
+- [DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents](https://arxiv.org/abs/2611.34852) — *Hugging Face Daily Papers*
 
-**Archivo reciente · Recent archive:** [2026-11-27](digests/2026/2026-11-27.md) · [2026-11-26](digests/2026/2026-11-26.md) · [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md) · [2026-11-18](digests/2026/2026-11-18.md)
+**Archivo reciente · Recent archive:** [2026-11-28](digests/2026/2026-11-28.md) · [2026-11-27](digests/2026/2026-11-27.md) · [2026-11-26](digests/2026/2026-11-26.md) · [2026-11-25](digests/2026/2026-11-25.md) · [2026-11-24](digests/2026/2026-11-24.md) · [2026-11-23](digests/2026/2026-11-23.md) · [2026-11-22](digests/2026/2026-11-22.md) · [2026-11-21](digests/2026/2026-11-21.md) · [2026-11-20](digests/2026/2026-11-20.md) · [2026-11-19](digests/2026/2026-11-19.md)
 
 <!-- RADAR:END -->
 
